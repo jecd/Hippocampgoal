@@ -1,0 +1,1105 @@
+"","ROI","contrast","subject","PS"
+"1","HIPP_MERGE_BL","sseq scon no sub","sub01",0.072785
+"2","HIPP_MERGE_BL","sseq dcon no sub","sub01",0.070739
+"3","HIPP_MERGE_BL","dseq scon no sub","sub01",0.057966
+"4","HIPP_MERGE_BL","dseq dcon no sub","sub01",0.060118
+"5","HIPP_MERGE_BL","dstart send same context no sub","sub01",0.059597
+"6","HIPP_MERGE_BL","dstart send diff context no sub","sub01",0.052708
+"7","HIPP_MERGE_BL","sstart dend same context no sub","sub01",0.061992
+"8","HIPP_MERGE_BL","sstart dend diff context no sub","sub01",0.061242
+"9","HIPP_MERGE_BL","dstart dend same context no sub","sub01",0.056351
+"10","HIPP_MERGE_BL","dstart dend diff context no sub","sub01",0.061963
+"11","HIPP_MERGE_BL","same mov scon no sub","sub01",0.072785
+"12","HIPP_MERGE_BL","same mov dcon no sub","sub01",0.065233
+"13","HIPP_MERGE_BL","share mov scon no sub","sub01",0.049708
+"14","HIPP_MERGE_BL","share mov dcon no sub","sub01",0.071938
+"15","HIPP_MERGE_BL","no share mov scon no sub","sub01",0.058496
+"16","HIPP_MERGE_BL","no share mov dcon no sub","sub01",0.059687
+"17","V12_BL","sseq scon no sub","sub01",0.56701
+"18","V12_BL","sseq dcon no sub","sub01",0.57224
+"19","V12_BL","dseq scon no sub","sub01",0.51905
+"20","V12_BL","dseq dcon no sub","sub01",0.52656
+"21","V12_BL","dstart send same context no sub","sub01",0.51384
+"22","V12_BL","dstart send diff context no sub","sub01",0.52368
+"23","V12_BL","sstart dend same context no sub","sub01",0.54283
+"24","V12_BL","sstart dend diff context no sub","sub01",0.53131
+"25","V12_BL","dstart dend same context no sub","sub01",0.51393
+"26","V12_BL","dstart dend diff context no sub","sub01",0.52606
+"27","V12_BL","same mov scon no sub","sub01",0.56701
+"28","V12_BL","same mov dcon no sub","sub01",0.52351
+"29","V12_BL","share mov scon no sub","sub01",0.47585
+"30","V12_BL","share mov dcon no sub","sub01",0.51811
+"31","V12_BL","no share mov scon no sub","sub01",0.52188
+"32","V12_BL","no share mov dcon no sub","sub01",0.53088
+"33","BA4ap","sseq scon no sub","sub01",0.17965
+"34","BA4ap","sseq dcon no sub","sub01",0.12847
+"35","BA4ap","dseq scon no sub","sub01",0.13524
+"36","BA4ap","dseq dcon no sub","sub01",0.14725
+"37","BA4ap","dstart send same context no sub","sub01",0.13389
+"38","BA4ap","dstart send diff context no sub","sub01",0.14839
+"39","BA4ap","sstart dend same context no sub","sub01",0.13723
+"40","BA4ap","sstart dend diff context no sub","sub01",0.16418
+"41","BA4ap","dstart dend same context no sub","sub01",0.13507
+"42","BA4ap","dstart dend diff context no sub","sub01",0.14214
+"43","BA4ap","same mov scon no sub","sub01",0.17965
+"44","BA4ap","same mov dcon no sub","sub01",0.12901
+"45","BA4ap","share mov scon no sub","sub01",0.10087
+"46","BA4ap","share mov dcon no sub","sub01",0.18059
+"47","BA4ap","no share mov scon no sub","sub01",0.13745
+"48","BA4ap","no share mov dcon no sub","sub01",0.14578
+"49","HIPP_MERGE_BL","sseq scon no sub","sub02",0.033775
+"50","HIPP_MERGE_BL","sseq dcon no sub","sub02",0.032848
+"51","HIPP_MERGE_BL","dseq scon no sub","sub02",0.043634
+"52","HIPP_MERGE_BL","dseq dcon no sub","sub02",0.051856
+"53","HIPP_MERGE_BL","dstart send same context no sub","sub02",0.060871
+"54","HIPP_MERGE_BL","dstart send diff context no sub","sub02",0.033368
+"55","HIPP_MERGE_BL","sstart dend same context no sub","sub02",0.034497
+"56","HIPP_MERGE_BL","sstart dend diff context no sub","sub02",0.046085
+"57","HIPP_MERGE_BL","dstart dend same context no sub","sub02",0.04138
+"58","HIPP_MERGE_BL","dstart dend diff context no sub","sub02",0.058712
+"59","HIPP_MERGE_BL","same mov scon no sub","sub02",0.033775
+"60","HIPP_MERGE_BL","same mov dcon no sub","sub02",0.079968
+"61","HIPP_MERGE_BL","share mov scon no sub","sub02",0.053628
+"62","HIPP_MERGE_BL","share mov dcon no sub","sub02",0.012624
+"63","HIPP_MERGE_BL","no share mov scon no sub","sub02",0.043016
+"64","HIPP_MERGE_BL","no share mov dcon no sub","sub02",0.049807
+"65","V12_BL","sseq scon no sub","sub02",0.34167
+"66","V12_BL","sseq dcon no sub","sub02",0.33816
+"67","V12_BL","dseq scon no sub","sub02",0.30718
+"68","V12_BL","dseq dcon no sub","sub02",0.31742
+"69","V12_BL","dstart send same context no sub","sub02",0.31313
+"70","V12_BL","dstart send diff context no sub","sub02",0.32551
+"71","V12_BL","sstart dend same context no sub","sub02",0.31573
+"72","V12_BL","sstart dend diff context no sub","sub02",0.32271
+"73","V12_BL","dstart dend same context no sub","sub02",0.30318
+"74","V12_BL","dstart dend diff context no sub","sub02",0.31365
+"75","V12_BL","same mov scon no sub","sub02",0.34167
+"76","V12_BL","same mov dcon no sub","sub02",0.31463
+"77","V12_BL","share mov scon no sub","sub02",0.27605
+"78","V12_BL","share mov dcon no sub","sub02",0.36739
+"79","V12_BL","no share mov scon no sub","sub02",0.30913
+"80","V12_BL","no share mov dcon no sub","sub02",0.31652
+"81","BA4ap","sseq scon no sub","sub02",0.18736
+"82","BA4ap","sseq dcon no sub","sub02",0.19383
+"83","BA4ap","dseq scon no sub","sub02",0.17548
+"84","BA4ap","dseq dcon no sub","sub02",0.20369
+"85","BA4ap","dstart send same context no sub","sub02",0.19735
+"86","BA4ap","dstart send diff context no sub","sub02",0.20691
+"87","BA4ap","sstart dend same context no sub","sub02",0.18502
+"88","BA4ap","sstart dend diff context no sub","sub02",0.19682
+"89","BA4ap","dstart dend same context no sub","sub02",0.1668
+"90","BA4ap","dstart dend diff context no sub","sub02",0.20471
+"91","BA4ap","same mov scon no sub","sub02",0.18736
+"92","BA4ap","same mov dcon no sub","sub02",0.18259
+"93","BA4ap","share mov scon no sub","sub02",0.18158
+"94","BA4ap","share mov dcon no sub","sub02",0.2545
+"95","BA4ap","no share mov scon no sub","sub02",0.1751
+"96","BA4ap","no share mov dcon no sub","sub02",0.20173
+"97","HIPP_MERGE_BL","sseq scon no sub","sub05",0.081122
+"98","HIPP_MERGE_BL","sseq dcon no sub","sub05",0.097166
+"99","HIPP_MERGE_BL","dseq scon no sub","sub05",0.076127
+"100","HIPP_MERGE_BL","dseq dcon no sub","sub05",0.075851
+"101","HIPP_MERGE_BL","dstart send same context no sub","sub05",0.06171
+"102","HIPP_MERGE_BL","dstart send diff context no sub","sub05",0.096512
+"103","HIPP_MERGE_BL","sstart dend same context no sub","sub05",0.076307
+"104","HIPP_MERGE_BL","sstart dend diff context no sub","sub05",0.077326
+"105","HIPP_MERGE_BL","dstart dend same context no sub","sub05",0.080123
+"106","HIPP_MERGE_BL","dstart dend diff context no sub","sub05",0.069639
+"107","HIPP_MERGE_BL","same mov scon no sub","sub05",0.081122
+"108","HIPP_MERGE_BL","same mov dcon no sub","sub05",0.035467
+"109","HIPP_MERGE_BL","share mov scon no sub","sub05",0.11828
+"110","HIPP_MERGE_BL","share mov dcon no sub","sub05",0.063416
+"111","HIPP_MERGE_BL","no share mov scon no sub","sub05",0.073422
+"112","HIPP_MERGE_BL","no share mov dcon no sub","sub05",0.082329
+"113","V12_BL","sseq scon no sub","sub05",0.41605
+"114","V12_BL","sseq dcon no sub","sub05",0.40259
+"115","V12_BL","dseq scon no sub","sub05",0.35934
+"116","V12_BL","dseq dcon no sub","sub05",0.3621
+"117","V12_BL","dstart send same context no sub","sub05",0.33403
+"118","V12_BL","dstart send diff context no sub","sub05",0.379
+"119","V12_BL","sstart dend same context no sub","sub05",0.36628
+"120","V12_BL","sstart dend diff context no sub","sub05",0.37187
+"121","V12_BL","dstart dend same context no sub","sub05",0.36449
+"122","V12_BL","dstart dend diff context no sub","sub05",0.35457
+"123","V12_BL","same mov scon no sub","sub05",0.41605
+"124","V12_BL","same mov dcon no sub","sub05",0.35042
+"125","V12_BL","share mov scon no sub","sub05",0.36364
+"126","V12_BL","share mov dcon no sub","sub05",0.33353
+"127","V12_BL","no share mov scon no sub","sub05",0.35907
+"128","V12_BL","no share mov dcon no sub","sub05",0.36832
+"129","BA4ap","sseq scon no sub","sub05",0.17005
+"130","BA4ap","sseq dcon no sub","sub05",0.067877
+"131","BA4ap","dseq scon no sub","sub05",0.11954
+"132","BA4ap","dseq dcon no sub","sub05",0.12613
+"133","BA4ap","dstart send same context no sub","sub05",0.12247
+"134","BA4ap","dstart send diff context no sub","sub05",0.1401
+"135","BA4ap","sstart dend same context no sub","sub05",0.16313
+"136","BA4ap","sstart dend diff context no sub","sub05",0.10091
+"137","BA4ap","dstart dend same context no sub","sub05",0.10605
+"138","BA4ap","dstart dend diff context no sub","sub05",0.12963
+"139","BA4ap","same mov scon no sub","sub05",0.17005
+"140","BA4ap","same mov dcon no sub","sub05",0.16575
+"141","BA4ap","share mov scon no sub","sub05",0.10765
+"142","BA4ap","share mov dcon no sub","sub05",0.024454
+"143","BA4ap","no share mov scon no sub","sub05",0.12031
+"144","BA4ap","no share mov dcon no sub","sub05",0.12379
+"145","HIPP_MERGE_BL","sseq scon no sub","sub06",0.069006
+"146","HIPP_MERGE_BL","sseq dcon no sub","sub06",0.036284
+"147","HIPP_MERGE_BL","dseq scon no sub","sub06",0.058007
+"148","HIPP_MERGE_BL","dseq dcon no sub","sub06",0.048557
+"149","HIPP_MERGE_BL","dstart send same context no sub","sub06",0.082213
+"150","HIPP_MERGE_BL","dstart send diff context no sub","sub06",0.058054
+"151","HIPP_MERGE_BL","sstart dend same context no sub","sub06",0.049707
+"152","HIPP_MERGE_BL","sstart dend diff context no sub","sub06",0.056224
+"153","HIPP_MERGE_BL","dstart dend same context no sub","sub06",0.053468
+"154","HIPP_MERGE_BL","dstart dend diff context no sub","sub06",0.043564
+"155","HIPP_MERGE_BL","same mov scon no sub","sub06",0.069006
+"156","HIPP_MERGE_BL","same mov dcon no sub","sub06",0.057923
+"157","HIPP_MERGE_BL","share mov scon no sub","sub06",-0.0028188
+"158","HIPP_MERGE_BL","share mov dcon no sub","sub06",0.0187
+"159","HIPP_MERGE_BL","no share mov scon no sub","sub06",0.062038
+"160","HIPP_MERGE_BL","no share mov dcon no sub","sub06",0.048343
+"161","V12_BL","sseq scon no sub","sub06",0.28881
+"162","V12_BL","sseq dcon no sub","sub06",0.32809
+"163","V12_BL","dseq scon no sub","sub06",0.23993
+"164","V12_BL","dseq dcon no sub","sub06",0.24752
+"165","V12_BL","dstart send same context no sub","sub06",0.26216
+"166","V12_BL","dstart send diff context no sub","sub06",0.2625
+"167","V12_BL","sstart dend same context no sub","sub06",0.23329
+"168","V12_BL","sstart dend diff context no sub","sub06",0.25437
+"169","V12_BL","dstart dend same context no sub","sub06",0.2355
+"170","V12_BL","dstart dend diff context no sub","sub06",0.24121
+"171","V12_BL","same mov scon no sub","sub06",0.28881
+"172","V12_BL","same mov dcon no sub","sub06",0.26141
+"173","V12_BL","share mov scon no sub","sub06",0.15625
+"174","V12_BL","share mov dcon no sub","sub06",0.26462
+"175","V12_BL","no share mov scon no sub","sub06",0.24556
+"176","V12_BL","no share mov dcon no sub","sub06",0.25237
+"177","BA4ap","sseq scon no sub","sub06",0.094274
+"178","BA4ap","sseq dcon no sub","sub06",0.070724
+"179","BA4ap","dseq scon no sub","sub06",0.076829
+"180","BA4ap","dseq dcon no sub","sub06",0.091055
+"181","BA4ap","dstart send same context no sub","sub06",0.067922
+"182","BA4ap","dstart send diff context no sub","sub06",0.096969
+"183","BA4ap","sstart dend same context no sub","sub06",0.10001
+"184","BA4ap","sstart dend diff context no sub","sub06",0.067192
+"185","BA4ap","dstart dend same context no sub","sub06",0.072543
+"186","BA4ap","dstart dend diff context no sub","sub06",0.096396
+"187","BA4ap","same mov scon no sub","sub06",0.094274
+"188","BA4ap","same mov dcon no sub","sub06",0.11588
+"189","BA4ap","share mov scon no sub","sub06",0.035153
+"190","BA4ap","share mov dcon no sub","sub06",0.077794
+"191","BA4ap","no share mov scon no sub","sub06",0.079592
+"192","BA4ap","no share mov dcon no sub","sub06",0.087593
+"193","HIPP_MERGE_BL","sseq scon no sub","sub08",0.095839
+"194","HIPP_MERGE_BL","sseq dcon no sub","sub08",0.068863
+"195","HIPP_MERGE_BL","dseq scon no sub","sub08",0.070115
+"196","HIPP_MERGE_BL","dseq dcon no sub","sub08",0.076449
+"197","HIPP_MERGE_BL","dstart send same context no sub","sub08",0.086422
+"198","HIPP_MERGE_BL","dstart send diff context no sub","sub08",0.073002
+"199","HIPP_MERGE_BL","sstart dend same context no sub","sub08",0.051546
+"200","HIPP_MERGE_BL","sstart dend diff context no sub","sub08",0.079694
+"201","HIPP_MERGE_BL","dstart dend same context no sub","sub08",0.070816
+"202","HIPP_MERGE_BL","dstart dend diff context no sub","sub08",0.076483
+"203","HIPP_MERGE_BL","same mov scon no sub","sub08",0.095839
+"204","HIPP_MERGE_BL","same mov dcon no sub","sub08",0.072242
+"205","HIPP_MERGE_BL","share mov scon no sub","sub08",0.094682
+"206","HIPP_MERGE_BL","share mov dcon no sub","sub08",0.066311
+"207","HIPP_MERGE_BL","no share mov scon no sub","sub08",0.068479
+"208","HIPP_MERGE_BL","no share mov dcon no sub","sub08",0.076722
+"209","V12_BL","sseq scon no sub","sub08",0.50024
+"210","V12_BL","sseq dcon no sub","sub08",0.46458
+"211","V12_BL","dseq scon no sub","sub08",0.47026
+"212","V12_BL","dseq dcon no sub","sub08",0.47052
+"213","V12_BL","dstart send same context no sub","sub08",0.48865
+"214","V12_BL","dstart send diff context no sub","sub08",0.47648
+"215","V12_BL","sstart dend same context no sub","sub08",0.47081
+"216","V12_BL","sstart dend diff context no sub","sub08",0.47298
+"217","V12_BL","dstart dend same context no sub","sub08",0.46483
+"218","V12_BL","dstart dend diff context no sub","sub08",0.4681
+"219","V12_BL","same mov scon no sub","sub08",0.50024
+"220","V12_BL","same mov dcon no sub","sub08",0.45462
+"221","V12_BL","share mov scon no sub","sub08",0.44149
+"222","V12_BL","share mov dcon no sub","sub08",0.46682
+"223","V12_BL","no share mov scon no sub","sub08",0.47221
+"224","V12_BL","no share mov dcon no sub","sub08",0.47169
+"225","BA4ap","sseq scon no sub","sub08",0.12763
+"226","BA4ap","sseq dcon no sub","sub08",0.085384
+"227","BA4ap","dseq scon no sub","sub08",0.1152
+"228","BA4ap","dseq dcon no sub","sub08",0.11045
+"229","BA4ap","dstart send same context no sub","sub08",0.13971
+"230","BA4ap","dstart send diff context no sub","sub08",0.11493
+"231","BA4ap","sstart dend same context no sub","sub08",0.10669
+"232","BA4ap","sstart dend diff context no sub","sub08",0.10139
+"233","BA4ap","dstart dend same context no sub","sub08",0.1106
+"234","BA4ap","dstart dend diff context no sub","sub08",0.11183
+"235","BA4ap","same mov scon no sub","sub08",0.12763
+"236","BA4ap","same mov dcon no sub","sub08",0.11995
+"237","BA4ap","share mov scon no sub","sub08",0.11022
+"238","BA4ap","share mov dcon no sub","sub08",0.1462
+"239","BA4ap","no share mov scon no sub","sub08",0.11553
+"240","BA4ap","no share mov dcon no sub","sub08",0.10495
+"241","HIPP_MERGE_BL","sseq scon no sub","sub10",0.11714
+"242","HIPP_MERGE_BL","sseq dcon no sub","sub10",0.11577
+"243","HIPP_MERGE_BL","dseq scon no sub","sub10",0.10935
+"244","HIPP_MERGE_BL","dseq dcon no sub","sub10",0.11277
+"245","HIPP_MERGE_BL","dstart send same context no sub","sub10",0.13352
+"246","HIPP_MERGE_BL","dstart send diff context no sub","sub10",0.11088
+"247","HIPP_MERGE_BL","sstart dend same context no sub","sub10",0.10404
+"248","HIPP_MERGE_BL","sstart dend diff context no sub","sub10",0.11291
+"249","HIPP_MERGE_BL","dstart dend same context no sub","sub10",0.10424
+"250","HIPP_MERGE_BL","dstart dend diff context no sub","sub10",0.1133
+"251","HIPP_MERGE_BL","same mov scon no sub","sub10",0.11714
+"252","HIPP_MERGE_BL","same mov dcon no sub","sub10",0.11729
+"253","HIPP_MERGE_BL","share mov scon no sub","sub10",0.10125
+"254","HIPP_MERGE_BL","share mov dcon no sub","sub10",0.12132
+"255","HIPP_MERGE_BL","no share mov scon no sub","sub10",0.10987
+"256","HIPP_MERGE_BL","no share mov dcon no sub","sub10",0.11211
+"257","V12_BL","sseq scon no sub","sub10",0.39488
+"258","V12_BL","sseq dcon no sub","sub10",0.3962
+"259","V12_BL","dseq scon no sub","sub10",0.3501
+"260","V12_BL","dseq dcon no sub","sub10",0.35247
+"261","V12_BL","dstart send same context no sub","sub10",0.34939
+"262","V12_BL","dstart send diff context no sub","sub10",0.34024
+"263","V12_BL","sstart dend same context no sub","sub10",0.37583
+"264","V12_BL","sstart dend diff context no sub","sub10",0.39621
+"265","V12_BL","dstart dend same context no sub","sub10",0.34306
+"266","V12_BL","dstart dend diff context no sub","sub10",0.34385
+"267","V12_BL","same mov scon no sub","sub10",0.39488
+"268","V12_BL","same mov dcon no sub","sub10",0.34875
+"269","V12_BL","share mov scon no sub","sub10",0.32522
+"270","V12_BL","share mov dcon no sub","sub10",0.38954
+"271","V12_BL","no share mov scon no sub","sub10",0.35171
+"272","V12_BL","no share mov dcon no sub","sub10",0.35472
+"273","BA4ap","sseq scon no sub","sub10",0.26527
+"274","BA4ap","sseq dcon no sub","sub10",0.18299
+"275","BA4ap","dseq scon no sub","sub10",0.21477
+"276","BA4ap","dseq dcon no sub","sub10",0.21798
+"277","BA4ap","dstart send same context no sub","sub10",0.21909
+"278","BA4ap","dstart send diff context no sub","sub10",0.21375
+"279","BA4ap","sstart dend same context no sub","sub10",0.25757
+"280","BA4ap","sstart dend diff context no sub","sub10",0.18943
+"281","BA4ap","dstart dend same context no sub","sub10",0.20158
+"282","BA4ap","dstart dend diff context no sub","sub10",0.22748
+"283","BA4ap","same mov scon no sub","sub10",0.26527
+"284","BA4ap","same mov dcon no sub","sub10",0.2438
+"285","BA4ap","share mov scon no sub","sub10",0.19157
+"286","BA4ap","share mov dcon no sub","sub10",0.19758
+"287","BA4ap","no share mov scon no sub","sub10",0.21627
+"288","BA4ap","no share mov dcon no sub","sub10",0.21341
+"289","HIPP_MERGE_BL","sseq scon no sub","sub11",0.060736
+"290","HIPP_MERGE_BL","sseq dcon no sub","sub11",0.087843
+"291","HIPP_MERGE_BL","dseq scon no sub","sub11",0.079585
+"292","HIPP_MERGE_BL","dseq dcon no sub","sub11",0.08251
+"293","HIPP_MERGE_BL","dstart send same context no sub","sub11",0.073596
+"294","HIPP_MERGE_BL","dstart send diff context no sub","sub11",0.07156
+"295","HIPP_MERGE_BL","sstart dend same context no sub","sub11",0.087489
+"296","HIPP_MERGE_BL","sstart dend diff context no sub","sub11",0.083842
+"297","HIPP_MERGE_BL","dstart dend same context no sub","sub11",0.079035
+"298","HIPP_MERGE_BL","dstart dend diff context no sub","sub11",0.085343
+"299","HIPP_MERGE_BL","same mov scon no sub","sub11",0.060736
+"300","HIPP_MERGE_BL","same mov dcon no sub","sub11",0.10003
+"301","HIPP_MERGE_BL","share mov scon no sub","sub11",0.094103
+"302","HIPP_MERGE_BL","share mov dcon no sub","sub11",0.087826
+"303","HIPP_MERGE_BL","no share mov scon no sub","sub11",0.07869
+"304","HIPP_MERGE_BL","no share mov dcon no sub","sub11",0.081001
+"305","V12_BL","sseq scon no sub","sub11",0.65128
+"306","V12_BL","sseq dcon no sub","sub11",0.61806
+"307","V12_BL","dseq scon no sub","sub11",0.60078
+"308","V12_BL","dseq dcon no sub","sub11",0.60234
+"309","V12_BL","dstart send same context no sub","sub11",0.60587
+"310","V12_BL","dstart send diff context no sub","sub11",0.59921
+"311","V12_BL","sstart dend same context no sub","sub11",0.60395
+"312","V12_BL","sstart dend diff context no sub","sub11",0.6057
+"313","V12_BL","dstart dend same context no sub","sub11",0.5984
+"314","V12_BL","dstart dend diff context no sub","sub11",0.60229
+"315","V12_BL","same mov scon no sub","sub11",0.65128
+"316","V12_BL","same mov dcon no sub","sub11",0.62271
+"317","V12_BL","share mov scon no sub","sub11",0.57718
+"318","V12_BL","share mov dcon no sub","sub11",0.62097
+"319","V12_BL","no share mov scon no sub","sub11",0.60225
+"320","V12_BL","no share mov dcon no sub","sub11",0.60074
+"321","BA4ap","sseq scon no sub","sub11",0.35844
+"322","BA4ap","sseq dcon no sub","sub11",0.31913
+"323","BA4ap","dseq scon no sub","sub11",0.35316
+"324","BA4ap","dseq dcon no sub","sub11",0.32249
+"325","BA4ap","dstart send same context no sub","sub11",0.35156
+"326","BA4ap","dstart send diff context no sub","sub11",0.31757
+"327","BA4ap","sstart dend same context no sub","sub11",0.35208
+"328","BA4ap","sstart dend diff context no sub","sub11",0.32403
+"329","BA4ap","dstart dend same context no sub","sub11",0.35394
+"330","BA4ap","dstart dend diff context no sub","sub11",0.32349
+"331","BA4ap","same mov scon no sub","sub11",0.35844
+"332","BA4ap","same mov dcon no sub","sub11",0.31096
+"333","BA4ap","share mov scon no sub","sub11",0.34766
+"334","BA4ap","share mov dcon no sub","sub11",0.33007
+"335","BA4ap","no share mov scon no sub","sub11",0.3535
+"336","BA4ap","no share mov dcon no sub","sub11",0.32282
+"337","HIPP_MERGE_BL","sseq scon no sub","sub13",0.030907
+"338","HIPP_MERGE_BL","sseq dcon no sub","sub13",0.017873
+"339","HIPP_MERGE_BL","dseq scon no sub","sub13",0.012285
+"340","HIPP_MERGE_BL","dseq dcon no sub","sub13",0.026309
+"341","HIPP_MERGE_BL","dstart send same context no sub","sub13",0.030774
+"342","HIPP_MERGE_BL","dstart send diff context no sub","sub13",0.020568
+"343","HIPP_MERGE_BL","sstart dend same context no sub","sub13",0.0045177
+"344","HIPP_MERGE_BL","sstart dend diff context no sub","sub13",0.030598
+"345","HIPP_MERGE_BL","dstart dend same context no sub","sub13",0.0091852
+"346","HIPP_MERGE_BL","dstart dend diff context no sub","sub13",0.026708
+"347","HIPP_MERGE_BL","same mov scon no sub","sub13",0.030907
+"348","HIPP_MERGE_BL","same mov dcon no sub","sub13",0.037177
+"349","HIPP_MERGE_BL","share mov scon no sub","sub13",0.027163
+"350","HIPP_MERGE_BL","share mov dcon no sub","sub13",0.020166
+"351","HIPP_MERGE_BL","no share mov scon no sub","sub13",0.011338
+"352","HIPP_MERGE_BL","no share mov dcon no sub","sub13",0.024866
+"353","V12_BL","sseq scon no sub","sub13",0.36585
+"354","V12_BL","sseq dcon no sub","sub13",0.34186
+"355","V12_BL","dseq scon no sub","sub13",0.33307
+"356","V12_BL","dseq dcon no sub","sub13",0.34765
+"357","V12_BL","dstart send same context no sub","sub13",0.33589
+"358","V12_BL","dstart send diff context no sub","sub13",0.34654
+"359","V12_BL","sstart dend same context no sub","sub13",0.31892
+"360","V12_BL","sstart dend diff context no sub","sub13",0.37207
+"361","V12_BL","dstart dend same context no sub","sub13",0.3362
+"362","V12_BL","dstart dend diff context no sub","sub13",0.34073
+"363","V12_BL","same mov scon no sub","sub13",0.36585
+"364","V12_BL","same mov dcon no sub","sub13",0.3311
+"365","V12_BL","share mov scon no sub","sub13",0.34408
+"366","V12_BL","share mov dcon no sub","sub13",0.33557
+"367","V12_BL","no share mov scon no sub","sub13",0.33237
+"368","V12_BL","no share mov dcon no sub","sub13",0.34942
+"369","BA4ap","sseq scon no sub","sub13",0.071147
+"370","BA4ap","sseq dcon no sub","sub13",0.018618
+"371","BA4ap","dseq scon no sub","sub13",0.050949
+"372","BA4ap","dseq dcon no sub","sub13",0.050704
+"373","BA4ap","dstart send same context no sub","sub13",0.069598
+"374","BA4ap","dstart send diff context no sub","sub13",0.028455
+"375","BA4ap","sstart dend same context no sub","sub13",0.046634
+"376","BA4ap","sstart dend diff context no sub","sub13",0.056215
+"377","BA4ap","dstart dend same context no sub","sub13",0.046857
+"378","BA4ap","dstart dend diff context no sub","sub13",0.055583
+"379","BA4ap","same mov scon no sub","sub13",0.071147
+"380","BA4ap","same mov dcon no sub","sub13",0.064099
+"381","BA4ap","share mov scon no sub","sub13",0.10898
+"382","BA4ap","share mov dcon no sub","sub13",0.042371
+"383","BA4ap","no share mov scon no sub","sub13",0.047269
+"384","BA4ap","no share mov dcon no sub","sub13",0.046813
+"385","HIPP_MERGE_BL","sseq scon no sub","sub14",0.011081
+"386","HIPP_MERGE_BL","sseq dcon no sub","sub14",-0.021139
+"387","HIPP_MERGE_BL","dseq scon no sub","sub14",0.00045617
+"388","HIPP_MERGE_BL","dseq dcon no sub","sub14",0.0018791
+"389","HIPP_MERGE_BL","dstart send same context no sub","sub14",-0.01173
+"390","HIPP_MERGE_BL","dstart send diff context no sub","sub14",-0.001036
+"391","HIPP_MERGE_BL","sstart dend same context no sub","sub14",-0.0035679
+"392","HIPP_MERGE_BL","sstart dend diff context no sub","sub14",-0.0027498
+"393","HIPP_MERGE_BL","dstart dend same context no sub","sub14",0.0051541
+"394","HIPP_MERGE_BL","dstart dend diff context no sub","sub14",0.0040562
+"395","HIPP_MERGE_BL","same mov scon no sub","sub14",0.011081
+"396","HIPP_MERGE_BL","same mov dcon no sub","sub14",-0.021893
+"397","HIPP_MERGE_BL","share mov scon no sub","sub14",0.044197
+"398","HIPP_MERGE_BL","share mov dcon no sub","sub14",-0.022208
+"399","HIPP_MERGE_BL","no share mov scon no sub","sub14",-0.0023539
+"400","HIPP_MERGE_BL","no share mov dcon no sub","sub14",0.0035436
+"401","V12_BL","sseq scon no sub","sub14",0.13838
+"402","V12_BL","sseq dcon no sub","sub14",0.12503
+"403","V12_BL","dseq scon no sub","sub14",0.1399
+"404","V12_BL","dseq dcon no sub","sub14",0.14095
+"405","V12_BL","dstart send same context no sub","sub14",0.12739
+"406","V12_BL","dstart send diff context no sub","sub14",0.13496
+"407","V12_BL","sstart dend same context no sub","sub14",0.1358
+"408","V12_BL","sstart dend diff context no sub","sub14",0.15353
+"409","V12_BL","dstart dend same context no sub","sub14",0.14473
+"410","V12_BL","dstart dend diff context no sub","sub14",0.13903
+"411","V12_BL","same mov scon no sub","sub14",0.13838
+"412","V12_BL","same mov dcon no sub","sub14",0.11231
+"413","V12_BL","share mov scon no sub","sub14",0.19774
+"414","V12_BL","share mov dcon no sub","sub14",0.13469
+"415","V12_BL","no share mov scon no sub","sub14",0.13622
+"416","V12_BL","no share mov dcon no sub","sub14",0.14262
+"417","BA4ap","sseq scon no sub","sub14",0.028769
+"418","BA4ap","sseq dcon no sub","sub14",0.014543
+"419","BA4ap","dseq scon no sub","sub14",0.024611
+"420","BA4ap","dseq dcon no sub","sub14",0.041805
+"421","BA4ap","dstart send same context no sub","sub14",0.003221
+"422","BA4ap","dstart send diff context no sub","sub14",0.040321
+"423","BA4ap","sstart dend same context no sub","sub14",0.026993
+"424","BA4ap","sstart dend diff context no sub","sub14",0.05705
+"425","BA4ap","dstart dend same context no sub","sub14",0.030085
+"426","BA4ap","dstart dend diff context no sub","sub14",0.037807
+"427","BA4ap","same mov scon no sub","sub14",0.028769
+"428","BA4ap","same mov dcon no sub","sub14",0.013332
+"429","BA4ap","share mov scon no sub","sub14",0.072355
+"430","BA4ap","share mov dcon no sub","sub14",-2.66e-05
+"431","BA4ap","no share mov scon no sub","sub14",0.021548
+"432","BA4ap","no share mov dcon no sub","sub14",0.04469
+"433","HIPP_MERGE_BL","sseq scon no sub","sub15",0.025058
+"434","HIPP_MERGE_BL","sseq dcon no sub","sub15",0.0027493
+"435","HIPP_MERGE_BL","dseq scon no sub","sub15",0.013102
+"436","HIPP_MERGE_BL","dseq dcon no sub","sub15",0.014098
+"437","HIPP_MERGE_BL","dstart send same context no sub","sub15",0.012308
+"438","HIPP_MERGE_BL","dstart send diff context no sub","sub15",0.0034067
+"439","HIPP_MERGE_BL","sstart dend same context no sub","sub15",0.011617
+"440","HIPP_MERGE_BL","sstart dend diff context no sub","sub15",0.039458
+"441","HIPP_MERGE_BL","dstart dend same context no sub","sub15",0.013757
+"442","HIPP_MERGE_BL","dstart dend diff context no sub","sub15",0.010393
+"443","HIPP_MERGE_BL","same mov scon no sub","sub15",0.025058
+"444","HIPP_MERGE_BL","same mov dcon no sub","sub15",0.012221
+"445","HIPP_MERGE_BL","share mov scon no sub","sub15",0.01283
+"446","HIPP_MERGE_BL","share mov dcon no sub","sub15",0.0059704
+"447","HIPP_MERGE_BL","no share mov scon no sub","sub15",0.01312
+"448","HIPP_MERGE_BL","no share mov dcon no sub","sub15",0.01374
+"449","V12_BL","sseq scon no sub","sub15",0.38982
+"450","V12_BL","sseq dcon no sub","sub15",0.35995
+"451","V12_BL","dseq scon no sub","sub15",0.35506
+"452","V12_BL","dseq dcon no sub","sub15",0.35322
+"453","V12_BL","dstart send same context no sub","sub15",0.34299
+"454","V12_BL","dstart send diff context no sub","sub15",0.35009
+"455","V12_BL","sstart dend same context no sub","sub15",0.37963
+"456","V12_BL","sstart dend diff context no sub","sub15",0.37436
+"457","V12_BL","dstart dend same context no sub","sub15",0.35169
+"458","V12_BL","dstart dend diff context no sub","sub15",0.3485
+"459","V12_BL","same mov scon no sub","sub15",0.38982
+"460","V12_BL","same mov dcon no sub","sub15",0.41297
+"461","V12_BL","share mov scon no sub","sub15",0.31878
+"462","V12_BL","share mov dcon no sub","sub15",0.30683
+"463","V12_BL","no share mov scon no sub","sub15",0.35749
+"464","V12_BL","no share mov dcon no sub","sub15",0.3514
+"465","BA4ap","sseq scon no sub","sub15",0.12706
+"466","BA4ap","sseq dcon no sub","sub15",0.062127
+"467","BA4ap","dseq scon no sub","sub15",0.095478
+"468","BA4ap","dseq dcon no sub","sub15",0.081221
+"469","BA4ap","dstart send same context no sub","sub15",0.080776
+"470","BA4ap","dstart send diff context no sub","sub15",0.08816
+"471","BA4ap","sstart dend same context no sub","sub15",0.11179
+"472","BA4ap","sstart dend diff context no sub","sub15",0.092207
+"473","BA4ap","dstart dend same context no sub","sub15",0.095164
+"474","BA4ap","dstart dend diff context no sub","sub15",0.076251
+"475","BA4ap","same mov scon no sub","sub15",0.12706
+"476","BA4ap","same mov dcon no sub","sub15",0.079144
+"477","BA4ap","share mov scon no sub","sub15",0.086975
+"478","BA4ap","share mov dcon no sub","sub15",0.060433
+"479","BA4ap","no share mov scon no sub","sub15",0.096042
+"480","BA4ap","no share mov dcon no sub","sub15",0.080989
+"481","HIPP_MERGE_BL","sseq scon no sub","sub16",0.065903
+"482","HIPP_MERGE_BL","sseq dcon no sub","sub16",0.017697
+"483","HIPP_MERGE_BL","dseq scon no sub","sub16",0.031888
+"484","HIPP_MERGE_BL","dseq dcon no sub","sub16",0.036654
+"485","HIPP_MERGE_BL","dstart send same context no sub","sub16",0.028945
+"486","HIPP_MERGE_BL","dstart send diff context no sub","sub16",0.022995
+"487","HIPP_MERGE_BL","sstart dend same context no sub","sub16",0.032486
+"488","HIPP_MERGE_BL","sstart dend diff context no sub","sub16",0.050107
+"489","HIPP_MERGE_BL","dstart dend same context no sub","sub16",0.032569
+"490","HIPP_MERGE_BL","dstart dend diff context no sub","sub16",0.036752
+"491","HIPP_MERGE_BL","same mov scon no sub","sub16",0.065903
+"492","HIPP_MERGE_BL","same mov dcon no sub","sub16",0.06272
+"493","HIPP_MERGE_BL","share mov scon no sub","sub16",-0.0027645
+"494","HIPP_MERGE_BL","share mov dcon no sub","sub16",0.037771
+"495","HIPP_MERGE_BL","no share mov scon no sub","sub16",0.034114
+"496","HIPP_MERGE_BL","no share mov dcon no sub","sub16",0.032172
+"497","V12_BL","sseq scon no sub","sub16",0.32928
+"498","V12_BL","sseq dcon no sub","sub16",0.32078
+"499","V12_BL","dseq scon no sub","sub16",0.29188
+"500","V12_BL","dseq dcon no sub","sub16",0.27623
+"501","V12_BL","dstart send same context no sub","sub16",0.32425
+"502","V12_BL","dstart send diff context no sub","sub16",0.30314
+"503","V12_BL","sstart dend same context no sub","sub16",0.29031
+"504","V12_BL","sstart dend diff context no sub","sub16",0.26314
+"505","V12_BL","dstart dend same context no sub","sub16",0.28306
+"506","V12_BL","dstart dend diff context no sub","sub16",0.27234
+"507","V12_BL","same mov scon no sub","sub16",0.32928
+"508","V12_BL","same mov dcon no sub","sub16",0.27739
+"509","V12_BL","share mov scon no sub","sub16",0.26841
+"510","V12_BL","share mov dcon no sub","sub16",0.32454
+"511","V12_BL","no share mov scon no sub","sub16",0.29339
+"512","V12_BL","no share mov dcon no sub","sub16",0.27729
+"513","BA4ap","sseq scon no sub","sub16",0.090096
+"514","BA4ap","sseq dcon no sub","sub16",0.048183
+"515","BA4ap","dseq scon no sub","sub16",0.079838
+"516","BA4ap","dseq dcon no sub","sub16",0.070463
+"517","BA4ap","dstart send same context no sub","sub16",0.077964
+"518","BA4ap","dstart send diff context no sub","sub16",0.087215
+"519","BA4ap","sstart dend same context no sub","sub16",0.10547
+"520","BA4ap","sstart dend diff context no sub","sub16",0.06434
+"521","BA4ap","dstart dend same context no sub","sub16",0.073045
+"522","BA4ap","dstart dend diff context no sub","sub16",0.067439
+"523","BA4ap","same mov scon no sub","sub16",0.090096
+"524","BA4ap","same mov dcon no sub","sub16",0.11319
+"525","BA4ap","share mov scon no sub","sub16",0.06087
+"526","BA4ap","share mov dcon no sub","sub16",0.05058
+"527","BA4ap","no share mov scon no sub","sub16",0.081057
+"528","BA4ap","no share mov dcon no sub","sub16",0.065293
+"529","HIPP_MERGE_BL","sseq scon no sub","sub17",0.11935
+"530","HIPP_MERGE_BL","sseq dcon no sub","sub17",0.10481
+"531","HIPP_MERGE_BL","dseq scon no sub","sub17",0.093269
+"532","HIPP_MERGE_BL","dseq dcon no sub","sub17",0.09375
+"533","HIPP_MERGE_BL","dstart send same context no sub","sub17",0.1179
+"534","HIPP_MERGE_BL","dstart send diff context no sub","sub17",0.080691
+"535","HIPP_MERGE_BL","sstart dend same context no sub","sub17",0.093724
+"536","HIPP_MERGE_BL","sstart dend diff context no sub","sub17",0.097126
+"537","HIPP_MERGE_BL","dstart dend same context no sub","sub17",0.085873
+"538","HIPP_MERGE_BL","dstart dend diff context no sub","sub17",0.096541
+"539","HIPP_MERGE_BL","same mov scon no sub","sub17",0.11935
+"540","HIPP_MERGE_BL","same mov dcon no sub","sub17",0.10881
+"541","HIPP_MERGE_BL","share mov scon no sub","sub17",0.1065
+"542","HIPP_MERGE_BL","share mov dcon no sub","sub17",0.10248
+"543","HIPP_MERGE_BL","no share mov scon no sub","sub17",0.092488
+"544","HIPP_MERGE_BL","no share mov dcon no sub","sub17",0.0928
+"545","V12_BL","sseq scon no sub","sub17",0.61418
+"546","V12_BL","sseq dcon no sub","sub17",0.60408
+"547","V12_BL","dseq scon no sub","sub17",0.57299
+"548","V12_BL","dseq dcon no sub","sub17",0.57063
+"549","V12_BL","dstart send same context no sub","sub17",0.58226
+"550","V12_BL","dstart send diff context no sub","sub17",0.57737
+"551","V12_BL","sstart dend same context no sub","sub17",0.58796
+"552","V12_BL","sstart dend diff context no sub","sub17",0.5911
+"553","V12_BL","dstart dend same context no sub","sub17",0.56597
+"554","V12_BL","dstart dend diff context no sub","sub17",0.56292
+"555","V12_BL","same mov scon no sub","sub17",0.61418
+"556","V12_BL","same mov dcon no sub","sub17",0.56216
+"557","V12_BL","share mov scon no sub","sub17",0.53736
+"558","V12_BL","share mov dcon no sub","sub17",0.5767
+"559","V12_BL","no share mov scon no sub","sub17",0.57514
+"560","V12_BL","no share mov dcon no sub","sub17",0.57416
+"561","BA4ap","sseq scon no sub","sub17",0.40955
+"562","BA4ap","sseq dcon no sub","sub17",0.41396
+"563","BA4ap","dseq scon no sub","sub17",0.38103
+"564","BA4ap","dseq dcon no sub","sub17",0.39621
+"565","BA4ap","dstart send same context no sub","sub17",0.373
+"566","BA4ap","dstart send diff context no sub","sub17",0.39491
+"567","BA4ap","sstart dend same context no sub","sub17",0.41581
+"568","BA4ap","sstart dend diff context no sub","sub17",0.38747
+"569","BA4ap","dstart dend same context no sub","sub17",0.37346
+"570","BA4ap","dstart dend diff context no sub","sub17",0.39909
+"571","BA4ap","same mov scon no sub","sub17",0.40955
+"572","BA4ap","same mov dcon no sub","sub17",0.42586
+"573","BA4ap","share mov scon no sub","sub17",0.37469
+"574","BA4ap","share mov dcon no sub","sub17",0.40673
+"575","BA4ap","no share mov scon no sub","sub17",0.38141
+"576","BA4ap","no share mov dcon no sub","sub17",0.3944
+"577","HIPP_MERGE_BL","sseq scon no sub","sub19",0.012578
+"578","HIPP_MERGE_BL","sseq dcon no sub","sub19",0.015024
+"579","HIPP_MERGE_BL","dseq scon no sub","sub19",0.026971
+"580","HIPP_MERGE_BL","dseq dcon no sub","sub19",0.03235
+"581","HIPP_MERGE_BL","dstart send same context no sub","sub19",0.023891
+"582","HIPP_MERGE_BL","dstart send diff context no sub","sub19",0.038243
+"583","HIPP_MERGE_BL","sstart dend same context no sub","sub19",0.025686
+"584","HIPP_MERGE_BL","sstart dend diff context no sub","sub19",0.037961
+"585","HIPP_MERGE_BL","dstart dend same context no sub","sub19",0.028183
+"586","HIPP_MERGE_BL","dstart dend diff context no sub","sub19",0.028941
+"587","HIPP_MERGE_BL","same mov scon no sub","sub19",0.012578
+"588","HIPP_MERGE_BL","same mov dcon no sub","sub19",0.048761
+"589","HIPP_MERGE_BL","share mov scon no sub","sub19",0.018573
+"590","HIPP_MERGE_BL","share mov dcon no sub","sub19",0.018821
+"591","HIPP_MERGE_BL","no share mov scon no sub","sub19",0.027537
+"592","HIPP_MERGE_BL","no share mov dcon no sub","sub19",0.029986
+"593","V12_BL","sseq scon no sub","sub19",0.37884
+"594","V12_BL","sseq dcon no sub","sub19",0.3304
+"595","V12_BL","dseq scon no sub","sub19",0.34225
+"596","V12_BL","dseq dcon no sub","sub19",0.35022
+"597","V12_BL","dstart send same context no sub","sub19",0.33251
+"598","V12_BL","dstart send diff context no sub","sub19",0.36857
+"599","V12_BL","sstart dend same context no sub","sub19",0.35197
+"600","V12_BL","sstart dend diff context no sub","sub19",0.33201
+"601","V12_BL","dstart dend same context no sub","sub19",0.34236
+"602","V12_BL","dstart dend diff context no sub","sub19",0.35049
+"603","V12_BL","same mov scon no sub","sub19",0.37884
+"604","V12_BL","same mov dcon no sub","sub19",0.38794
+"605","V12_BL","share mov scon no sub","sub19",0.31305
+"606","V12_BL","share mov dcon no sub","sub19",0.29057
+"607","V12_BL","no share mov scon no sub","sub19",0.34424
+"608","V12_BL","no share mov dcon no sub","sub19",0.34879
+"609","BA4ap","sseq scon no sub","sub19",0.064123
+"610","BA4ap","sseq dcon no sub","sub19",0.054368
+"611","BA4ap","dseq scon no sub","sub19",0.052323
+"612","BA4ap","dseq dcon no sub","sub19",0.065476
+"613","BA4ap","dstart send same context no sub","sub19",0.064128
+"614","BA4ap","dstart send diff context no sub","sub19",0.090953
+"615","BA4ap","sstart dend same context no sub","sub19",0.033507
+"616","BA4ap","sstart dend diff context no sub","sub19",0.047128
+"617","BA4ap","dstart dend same context no sub","sub19",0.05413
+"618","BA4ap","dstart dend diff context no sub","sub19",0.06368
+"619","BA4ap","same mov scon no sub","sub19",0.064123
+"620","BA4ap","same mov dcon no sub","sub19",0.075722
+"621","BA4ap","share mov scon no sub","sub19",0.051258
+"622","BA4ap","share mov dcon no sub","sub19",0.015231
+"623","BA4ap","no share mov scon no sub","sub19",0.052395
+"624","BA4ap","no share mov dcon no sub","sub19",0.066755
+"625","HIPP_MERGE_BL","sseq scon no sub","sub20",0.035186
+"626","HIPP_MERGE_BL","sseq dcon no sub","sub20",0.030129
+"627","HIPP_MERGE_BL","dseq scon no sub","sub20",0.049664
+"628","HIPP_MERGE_BL","dseq dcon no sub","sub20",0.024078
+"629","HIPP_MERGE_BL","dstart send same context no sub","sub20",0.042395
+"630","HIPP_MERGE_BL","dstart send diff context no sub","sub20",0.019158
+"631","HIPP_MERGE_BL","sstart dend same context no sub","sub20",0.058513
+"632","HIPP_MERGE_BL","sstart dend diff context no sub","sub20",0.016626
+"633","HIPP_MERGE_BL","dstart dend same context no sub","sub20",0.049197
+"634","HIPP_MERGE_BL","dstart dend diff context no sub","sub20",0.027603
+"635","HIPP_MERGE_BL","same mov scon no sub","sub20",0.035186
+"636","HIPP_MERGE_BL","same mov dcon no sub","sub20",0.017675
+"637","HIPP_MERGE_BL","share mov scon no sub","sub20",0.090184
+"638","HIPP_MERGE_BL","share mov dcon no sub","sub20",0.01397
+"639","HIPP_MERGE_BL","no share mov scon no sub","sub20",0.04706
+"640","HIPP_MERGE_BL","no share mov dcon no sub","sub20",0.025913
+"641","V12_BL","sseq scon no sub","sub20",0.62789
+"642","V12_BL","sseq dcon no sub","sub20",0.60227
+"643","V12_BL","dseq scon no sub","sub20",0.60738
+"644","V12_BL","dseq dcon no sub","sub20",0.60194
+"645","V12_BL","dstart send same context no sub","sub20",0.60784
+"646","V12_BL","dstart send diff context no sub","sub20",0.61538
+"647","V12_BL","sstart dend same context no sub","sub20",0.61329
+"648","V12_BL","sstart dend diff context no sub","sub20",0.60349
+"649","V12_BL","dstart dend same context no sub","sub20",0.60554
+"650","V12_BL","dstart dend diff context no sub","sub20",0.59775
+"651","V12_BL","same mov scon no sub","sub20",0.62789
+"652","V12_BL","same mov dcon no sub","sub20",0.58591
+"653","V12_BL","share mov scon no sub","sub20",0.64251
+"654","V12_BL","share mov dcon no sub","sub20",0.60706
+"655","V12_BL","no share mov scon no sub","sub20",0.60516
+"656","V12_BL","no share mov dcon no sub","sub20",0.60319
+"657","BA4ap","sseq scon no sub","sub20",0.16484
+"658","BA4ap","sseq dcon no sub","sub20",0.11879
+"659","BA4ap","dseq scon no sub","sub20",0.14443
+"660","BA4ap","dseq dcon no sub","sub20",0.15129
+"661","BA4ap","dstart send same context no sub","sub20",0.14645
+"662","BA4ap","dstart send diff context no sub","sub20",0.15051
+"663","BA4ap","sstart dend same context no sub","sub20",0.17709
+"664","BA4ap","sstart dend diff context no sub","sub20",0.12355
+"665","BA4ap","dstart dend same context no sub","sub20",0.13447
+"666","BA4ap","dstart dend diff context no sub","sub20",0.15951
+"667","BA4ap","same mov scon no sub","sub20",0.16484
+"668","BA4ap","same mov dcon no sub","sub20",0.19301
+"669","BA4ap","share mov scon no sub","sub20",0.11684
+"670","BA4ap","share mov dcon no sub","sub20",0.077745
+"671","BA4ap","no share mov scon no sub","sub20",0.14621
+"672","BA4ap","no share mov dcon no sub","sub20",0.14889
+"673","HIPP_MERGE_BL","sseq scon no sub","sub21",0.04358
+"674","HIPP_MERGE_BL","sseq dcon no sub","sub21",0.033521
+"675","HIPP_MERGE_BL","dseq scon no sub","sub21",0.02697
+"676","HIPP_MERGE_BL","dseq dcon no sub","sub21",0.030249
+"677","HIPP_MERGE_BL","dstart send same context no sub","sub21",0.01869
+"678","HIPP_MERGE_BL","dstart send diff context no sub","sub21",0.026898
+"679","HIPP_MERGE_BL","sstart dend same context no sub","sub21",0.039576
+"680","HIPP_MERGE_BL","sstart dend diff context no sub","sub21",0.020521
+"681","HIPP_MERGE_BL","dstart dend same context no sub","sub21",0.025641
+"682","HIPP_MERGE_BL","dstart dend diff context no sub","sub21",0.033965
+"683","HIPP_MERGE_BL","same mov scon no sub","sub21",0.04358
+"684","HIPP_MERGE_BL","same mov dcon no sub","sub21",0.02592
+"685","HIPP_MERGE_BL","share mov scon no sub","sub21",0.022788
+"686","HIPP_MERGE_BL","share mov dcon no sub","sub21",0.052877
+"687","HIPP_MERGE_BL","no share mov scon no sub","sub21",0.027242
+"688","HIPP_MERGE_BL","no share mov dcon no sub","sub21",0.029497
+"689","V12_BL","sseq scon no sub","sub21",0.27645
+"690","V12_BL","sseq dcon no sub","sub21",0.22819
+"691","V12_BL","dseq scon no sub","sub21",0.21728
+"692","V12_BL","dseq dcon no sub","sub21",0.21621
+"693","V12_BL","dstart send same context no sub","sub21",0.21099
+"694","V12_BL","dstart send diff context no sub","sub21",0.2228
+"695","V12_BL","sstart dend same context no sub","sub21",0.20398
+"696","V12_BL","sstart dend diff context no sub","sub21",0.21104
+"697","V12_BL","dstart dend same context no sub","sub21",0.22286
+"698","V12_BL","dstart dend diff context no sub","sub21",0.21576
+"699","V12_BL","same mov scon no sub","sub21",0.27645
+"700","V12_BL","same mov dcon no sub","sub21",0.20808
+"701","V12_BL","share mov scon no sub","sub21",0.21447
+"702","V12_BL","share mov dcon no sub","sub21",0.26908
+"703","V12_BL","no share mov scon no sub","sub21",0.21746
+"704","V12_BL","no share mov dcon no sub","sub21",0.21473
+"705","BA4ap","sseq scon no sub","sub21",0.22919
+"706","BA4ap","sseq dcon no sub","sub21",0.096691
+"707","BA4ap","dseq scon no sub","sub21",0.14379
+"708","BA4ap","dseq dcon no sub","sub21",0.15306
+"709","BA4ap","dstart send same context no sub","sub21",0.12732
+"710","BA4ap","dstart send diff context no sub","sub21",0.15789
+"711","BA4ap","sstart dend same context no sub","sub21",0.17966
+"712","BA4ap","sstart dend diff context no sub","sub21",0.10397
+"713","BA4ap","dstart dend same context no sub","sub21",0.13811
+"714","BA4ap","dstart dend diff context no sub","sub21",0.1656
+"715","BA4ap","same mov scon no sub","sub21",0.22919
+"716","BA4ap","same mov dcon no sub","sub21",0.19493
+"717","BA4ap","share mov scon no sub","sub21",0.17303
+"718","BA4ap","share mov dcon no sub","sub21",0.16228
+"719","BA4ap","no share mov scon no sub","sub21",0.14189
+"720","BA4ap","no share mov dcon no sub","sub21",0.14286
+"721","HIPP_MERGE_BL","sseq scon no sub","sub22",-0.0015788
+"722","HIPP_MERGE_BL","sseq dcon no sub","sub22",0.0049656
+"723","HIPP_MERGE_BL","dseq scon no sub","sub22",0.0059725
+"724","HIPP_MERGE_BL","dseq dcon no sub","sub22",0.014434
+"725","HIPP_MERGE_BL","dstart send same context no sub","sub22",-0.00079641
+"726","HIPP_MERGE_BL","dstart send diff context no sub","sub22",0.019374
+"727","HIPP_MERGE_BL","sstart dend same context no sub","sub22",0.012561
+"728","HIPP_MERGE_BL","sstart dend diff context no sub","sub22",0.0096607
+"729","HIPP_MERGE_BL","dstart dend same context no sub","sub22",0.0060319
+"730","HIPP_MERGE_BL","dstart dend diff context no sub","sub22",0.014353
+"731","HIPP_MERGE_BL","same mov scon no sub","sub22",-0.0015788
+"732","HIPP_MERGE_BL","same mov dcon no sub","sub22",0.012483
+"733","HIPP_MERGE_BL","share mov scon no sub","sub22",-0.0063533
+"734","HIPP_MERGE_BL","share mov dcon no sub","sub22",0.011956
+"735","HIPP_MERGE_BL","no share mov scon no sub","sub22",0.0067429
+"736","HIPP_MERGE_BL","no share mov dcon no sub","sub22",0.013852
+"737","V12_BL","sseq scon no sub","sub22",0.21246
+"738","V12_BL","sseq dcon no sub","sub22",0.19083
+"739","V12_BL","dseq scon no sub","sub22",0.16538
+"740","V12_BL","dseq dcon no sub","sub22",0.1656
+"741","V12_BL","dstart send same context no sub","sub22",0.16511
+"742","V12_BL","dstart send diff context no sub","sub22",0.15424
+"743","V12_BL","sstart dend same context no sub","sub22",0.14328
+"744","V12_BL","sstart dend diff context no sub","sub22",0.17206
+"745","V12_BL","dstart dend same context no sub","sub22",0.172
+"746","V12_BL","dstart dend diff context no sub","sub22",0.16703
+"747","V12_BL","same mov scon no sub","sub22",0.21246
+"748","V12_BL","same mov dcon no sub","sub22",0.17644
+"749","V12_BL","share mov scon no sub","sub22",0.18223
+"750","V12_BL","share mov dcon no sub","sub22",0.15069
+"751","V12_BL","no share mov scon no sub","sub22",0.16433
+"752","V12_BL","no share mov dcon no sub","sub22",0.16794
+"753","BA4ap","sseq scon no sub","sub22",0.11722
+"754","BA4ap","sseq dcon no sub","sub22",0.026426
+"755","BA4ap","dseq scon no sub","sub22",0.033001
+"756","BA4ap","dseq dcon no sub","sub22",0.045213
+"757","BA4ap","dstart send same context no sub","sub22",0.0010112
+"758","BA4ap","dstart send diff context no sub","sub22",0.061357
+"759","BA4ap","sstart dend same context no sub","sub22",0.027648
+"760","BA4ap","sstart dend diff context no sub","sub22",0.0094601
+"761","BA4ap","dstart dend same context no sub","sub22",0.044057
+"762","BA4ap","dstart dend diff context no sub","sub22",0.050473
+"763","BA4ap","same mov scon no sub","sub22",0.11722
+"764","BA4ap","same mov dcon no sub","sub22",0.021148
+"765","BA4ap","share mov scon no sub","sub22",0.053389
+"766","BA4ap","share mov dcon no sub","sub22",0.05254
+"767","BA4ap","no share mov scon no sub","sub22",0.031727
+"768","BA4ap","no share mov dcon no sub","sub22",0.045313
+"769","HIPP_MERGE_BL","sseq scon no sub","sub23",0.051411
+"770","HIPP_MERGE_BL","sseq dcon no sub","sub23",0.064928
+"771","HIPP_MERGE_BL","dseq scon no sub","sub23",0.046381
+"772","HIPP_MERGE_BL","dseq dcon no sub","sub23",0.042646
+"773","HIPP_MERGE_BL","dstart send same context no sub","sub23",0.041183
+"774","HIPP_MERGE_BL","dstart send diff context no sub","sub23",0.032704
+"775","HIPP_MERGE_BL","sstart dend same context no sub","sub23",0.043287
+"776","HIPP_MERGE_BL","sstart dend diff context no sub","sub23",0.059094
+"777","HIPP_MERGE_BL","dstart dend same context no sub","sub23",0.048724
+"778","HIPP_MERGE_BL","dstart dend diff context no sub","sub23",0.040908
+"779","HIPP_MERGE_BL","same mov scon no sub","sub23",0.051411
+"780","HIPP_MERGE_BL","same mov dcon no sub","sub23",0.047476
+"781","HIPP_MERGE_BL","share mov scon no sub","sub23",0.04063
+"782","HIPP_MERGE_BL","share mov dcon no sub","sub23",0.063574
+"783","HIPP_MERGE_BL","no share mov scon no sub","sub23",0.046759
+"784","HIPP_MERGE_BL","no share mov dcon no sub","sub23",0.042972
+"785","V12_BL","sseq scon no sub","sub23",0.38601
+"786","V12_BL","sseq dcon no sub","sub23",0.44906
+"787","V12_BL","dseq scon no sub","sub23",0.39251
+"788","V12_BL","dseq dcon no sub","sub23",0.39016
+"789","V12_BL","dstart send same context no sub","sub23",0.38589
+"790","V12_BL","dstart send diff context no sub","sub23",0.40682
+"791","V12_BL","sstart dend same context no sub","sub23",0.39776
+"792","V12_BL","sstart dend diff context no sub","sub23",0.38972
+"793","V12_BL","dstart dend same context no sub","sub23",0.39293
+"794","V12_BL","dstart dend diff context no sub","sub23",0.38545
+"795","V12_BL","same mov scon no sub","sub23",0.38601
+"796","V12_BL","same mov dcon no sub","sub23",0.39506
+"797","V12_BL","share mov scon no sub","sub23",0.41719
+"798","V12_BL","share mov dcon no sub","sub23",0.41799
+"799","V12_BL","no share mov scon no sub","sub23",0.3909
+"800","V12_BL","no share mov dcon no sub","sub23",0.39347
+"801","BA4ap","sseq scon no sub","sub23",0.33784
+"802","BA4ap","sseq dcon no sub","sub23",0.32091
+"803","BA4ap","dseq scon no sub","sub23",0.29689
+"804","BA4ap","dseq dcon no sub","sub23",0.29011
+"805","BA4ap","dstart send same context no sub","sub23",0.27976
+"806","BA4ap","dstart send diff context no sub","sub23",0.272
+"807","BA4ap","sstart dend same context no sub","sub23",0.29147
+"808","BA4ap","sstart dend diff context no sub","sub23",0.29251
+"809","BA4ap","dstart dend same context no sub","sub23",0.30332
+"810","BA4ap","dstart dend diff context no sub","sub23",0.29476
+"811","BA4ap","same mov scon no sub","sub23",0.33784
+"812","BA4ap","same mov dcon no sub","sub23",0.3096
+"813","BA4ap","share mov scon no sub","sub23",0.35379
+"814","BA4ap","share mov dcon no sub","sub23",0.42316
+"815","BA4ap","no share mov scon no sub","sub23",0.29322
+"816","BA4ap","no share mov dcon no sub","sub23",0.2829
+"817","HIPP_MERGE_BL","sseq scon no sub","sub24",0.074561
+"818","HIPP_MERGE_BL","sseq dcon no sub","sub24",0.035739
+"819","HIPP_MERGE_BL","dseq scon no sub","sub24",0.062729
+"820","HIPP_MERGE_BL","dseq dcon no sub","sub24",0.053732
+"821","HIPP_MERGE_BL","dstart send same context no sub","sub24",0.071238
+"822","HIPP_MERGE_BL","dstart send diff context no sub","sub24",0.044047
+"823","HIPP_MERGE_BL","sstart dend same context no sub","sub24",0.061187
+"824","HIPP_MERGE_BL","sstart dend diff context no sub","sub24",0.051627
+"825","HIPP_MERGE_BL","dstart dend same context no sub","sub24",0.06071
+"826","HIPP_MERGE_BL","dstart dend diff context no sub","sub24",0.057156
+"827","HIPP_MERGE_BL","same mov scon no sub","sub24",0.074561
+"828","HIPP_MERGE_BL","same mov dcon no sub","sub24",0.048988
+"829","HIPP_MERGE_BL","share mov scon no sub","sub24",0.081328
+"830","HIPP_MERGE_BL","share mov dcon no sub","sub24",0.06711
+"831","HIPP_MERGE_BL","no share mov scon no sub","sub24",0.061592
+"832","HIPP_MERGE_BL","no share mov dcon no sub","sub24",0.05163
+"833","V12_BL","sseq scon no sub","sub24",0.43952
+"834","V12_BL","sseq dcon no sub","sub24",0.45951
+"835","V12_BL","dseq scon no sub","sub24",0.4287
+"836","V12_BL","dseq dcon no sub","sub24",0.43171
+"837","V12_BL","dstart send same context no sub","sub24",0.44303
+"838","V12_BL","dstart send diff context no sub","sub24",0.44347
+"839","V12_BL","sstart dend same context no sub","sub24",0.42654
+"840","V12_BL","sstart dend diff context no sub","sub24",0.43475
+"841","V12_BL","dstart dend same context no sub","sub24",0.4252
+"842","V12_BL","dstart dend diff context no sub","sub24",0.42744
+"843","V12_BL","same mov scon no sub","sub24",0.43952
+"844","V12_BL","same mov dcon no sub","sub24",0.4295
+"845","V12_BL","share mov scon no sub","sub24",0.41017
+"846","V12_BL","share mov dcon no sub","sub24",0.43413
+"847","V12_BL","no share mov scon no sub","sub24",0.42984
+"848","V12_BL","no share mov dcon no sub","sub24",0.43445
+"849","BA4ap","sseq scon no sub","sub24",0.25924
+"850","BA4ap","sseq dcon no sub","sub24",0.21099
+"851","BA4ap","dseq scon no sub","sub24",0.22313
+"852","BA4ap","dseq dcon no sub","sub24",0.24281
+"853","BA4ap","dstart send same context no sub","sub24",0.22297
+"854","BA4ap","dstart send diff context no sub","sub24",0.25638
+"855","BA4ap","sstart dend same context no sub","sub24",0.21252
+"856","BA4ap","sstart dend diff context no sub","sub24",0.23011
+"857","BA4ap","dstart dend same context no sub","sub24",0.22623
+"858","BA4ap","dstart dend diff context no sub","sub24",0.24247
+"859","BA4ap","same mov scon no sub","sub24",0.25924
+"860","BA4ap","same mov dcon no sub","sub24",0.30973
+"861","BA4ap","share mov scon no sub","sub24",0.34773
+"862","BA4ap","share mov dcon no sub","sub24",0.34006
+"863","BA4ap","no share mov scon no sub","sub24",0.21576
+"864","BA4ap","no share mov dcon no sub","sub24",0.2276
+"865","HIPP_MERGE_BL","sseq scon no sub","sub25",0.040493
+"866","HIPP_MERGE_BL","sseq dcon no sub","sub25",0.019082
+"867","HIPP_MERGE_BL","dseq scon no sub","sub25",0.0094437
+"868","HIPP_MERGE_BL","dseq dcon no sub","sub25",0.023938
+"869","HIPP_MERGE_BL","dstart send same context no sub","sub25",0.043695
+"870","HIPP_MERGE_BL","dstart send diff context no sub","sub25",0.019391
+"871","HIPP_MERGE_BL","sstart dend same context no sub","sub25",-0.019524
+"872","HIPP_MERGE_BL","sstart dend diff context no sub","sub25",0.036047
+"873","HIPP_MERGE_BL","dstart dend same context no sub","sub25",0.0082547
+"874","HIPP_MERGE_BL","dstart dend diff context no sub","sub25",0.021652
+"875","HIPP_MERGE_BL","same mov scon no sub","sub25",0.040493
+"876","HIPP_MERGE_BL","same mov dcon no sub","sub25",-0.017143
+"877","HIPP_MERGE_BL","share mov scon no sub","sub25",-0.011783
+"878","HIPP_MERGE_BL","share mov dcon no sub","sub25",0.072106
+"879","HIPP_MERGE_BL","no share mov scon no sub","sub25",0.010795
+"880","HIPP_MERGE_BL","no share mov dcon no sub","sub25",0.024078
+"881","V12_BL","sseq scon no sub","sub25",0.26998
+"882","V12_BL","sseq dcon no sub","sub25",0.29812
+"883","V12_BL","dseq scon no sub","sub25",0.26224
+"884","V12_BL","dseq dcon no sub","sub25",0.2564
+"885","V12_BL","dstart send same context no sub","sub25",0.27684
+"886","V12_BL","dstart send diff context no sub","sub25",0.24574
+"887","V12_BL","sstart dend same context no sub","sub25",0.26897
+"888","V12_BL","sstart dend diff context no sub","sub25",0.26366
+"889","V12_BL","dstart dend same context no sub","sub25",0.25613
+"890","V12_BL","dstart dend diff context no sub","sub25",0.25736
+"891","V12_BL","same mov scon no sub","sub25",0.26998
+"892","V12_BL","same mov dcon no sub","sub25",0.25599
+"893","V12_BL","share mov scon no sub","sub25",0.2962
+"894","V12_BL","share mov dcon no sub","sub25",0.30456
+"895","V12_BL","no share mov scon no sub","sub25",0.2601
+"896","V12_BL","no share mov dcon no sub","sub25",0.25707
+"897","BA4ap","sseq scon no sub","sub25",0.12694
+"898","BA4ap","sseq dcon no sub","sub25",0.10762
+"899","BA4ap","dseq scon no sub","sub25",0.091553
+"900","BA4ap","dseq dcon no sub","sub25",0.10235
+"901","BA4ap","dstart send same context no sub","sub25",0.091572
+"902","BA4ap","dstart send diff context no sub","sub25",0.07524
+"903","BA4ap","sstart dend same context no sub","sub25",0.12132
+"904","BA4ap","sstart dend diff context no sub","sub25",0.065376
+"905","BA4ap","dstart dend same context no sub","sub25",0.082796
+"906","BA4ap","dstart dend diff context no sub","sub25",0.12137
+"907","BA4ap","same mov scon no sub","sub25",0.12694
+"908","BA4ap","same mov dcon no sub","sub25",0.11706
+"909","BA4ap","share mov scon no sub","sub25",0.14442
+"910","BA4ap","share mov dcon no sub","sub25",0.17351
+"911","BA4ap","no share mov scon no sub","sub25",0.088208
+"912","BA4ap","no share mov dcon no sub","sub25",0.096869
+"913","HIPP_MERGE_BL","sseq scon no sub","sub26",0.13729
+"914","HIPP_MERGE_BL","sseq dcon no sub","sub26",0.097214
+"915","HIPP_MERGE_BL","dseq scon no sub","sub26",0.078209
+"916","HIPP_MERGE_BL","dseq dcon no sub","sub26",0.092983
+"917","HIPP_MERGE_BL","dstart send same context no sub","sub26",0.085052
+"918","HIPP_MERGE_BL","dstart send diff context no sub","sub26",0.07092
+"919","HIPP_MERGE_BL","sstart dend same context no sub","sub26",0.073769
+"920","HIPP_MERGE_BL","sstart dend diff context no sub","sub26",0.12025
+"921","HIPP_MERGE_BL","dstart dend same context no sub","sub26",0.077498
+"922","HIPP_MERGE_BL","dstart dend diff context no sub","sub26",0.091663
+"923","HIPP_MERGE_BL","same mov scon no sub","sub26",0.13729
+"924","HIPP_MERGE_BL","same mov dcon no sub","sub26",0.10306
+"925","HIPP_MERGE_BL","share mov scon no sub","sub26",0.0959
+"926","HIPP_MERGE_BL","share mov dcon no sub","sub26",0.11379
+"927","HIPP_MERGE_BL","no share mov scon no sub","sub26",0.077074
+"928","HIPP_MERGE_BL","no share mov dcon no sub","sub26",0.091209
+"929","V12_BL","sseq scon no sub","sub26",0.48249
+"930","V12_BL","sseq dcon no sub","sub26",0.49617
+"931","V12_BL","dseq scon no sub","sub26",0.41333
+"932","V12_BL","dseq dcon no sub","sub26",0.409
+"933","V12_BL","dstart send same context no sub","sub26",0.45417
+"934","V12_BL","dstart send diff context no sub","sub26",0.43656
+"935","V12_BL","sstart dend same context no sub","sub26",0.43085
+"936","V12_BL","sstart dend diff context no sub","sub26",0.43485
+"937","V12_BL","dstart dend same context no sub","sub26",0.39658
+"938","V12_BL","dstart dend diff context no sub","sub26",0.39399
+"939","V12_BL","same mov scon no sub","sub26",0.48249
+"940","V12_BL","same mov dcon no sub","sub26",0.43883
+"941","V12_BL","share mov scon no sub","sub26",0.42491
+"942","V12_BL","share mov dcon no sub","sub26",0.42443
+"943","V12_BL","no share mov scon no sub","sub26",0.41259
+"944","V12_BL","no share mov dcon no sub","sub26",0.41334
+"945","BA4ap","sseq scon no sub","sub26",0.42792
+"946","BA4ap","sseq dcon no sub","sub26",0.40882
+"947","BA4ap","dseq scon no sub","sub26",0.39122
+"948","BA4ap","dseq dcon no sub","sub26",0.3814
+"949","BA4ap","dstart send same context no sub","sub26",0.3953
+"950","BA4ap","dstart send diff context no sub","sub26",0.36989
+"951","BA4ap","sstart dend same context no sub","sub26",0.40153
+"952","BA4ap","sstart dend diff context no sub","sub26",0.38646
+"953","BA4ap","dstart dend same context no sub","sub26",0.38704
+"954","BA4ap","dstart dend diff context no sub","sub26",0.38331
+"955","BA4ap","same mov scon no sub","sub26",0.42792
+"956","BA4ap","same mov dcon no sub","sub26",0.41338
+"957","BA4ap","share mov scon no sub","sub26",0.4537
+"958","BA4ap","share mov dcon no sub","sub26",0.43989
+"959","BA4ap","no share mov scon no sub","sub26",0.38731
+"960","BA4ap","no share mov dcon no sub","sub26",0.37763
+"961","HIPP_MERGE_BL","sseq scon no sub","sub27",0.062174
+"962","HIPP_MERGE_BL","sseq dcon no sub","sub27",0.061007
+"963","HIPP_MERGE_BL","dseq scon no sub","sub27",0.060772
+"964","HIPP_MERGE_BL","dseq dcon no sub","sub27",0.054932
+"965","HIPP_MERGE_BL","dstart send same context no sub","sub27",0.074684
+"966","HIPP_MERGE_BL","dstart send diff context no sub","sub27",0.056274
+"967","HIPP_MERGE_BL","sstart dend same context no sub","sub27",0.046579
+"968","HIPP_MERGE_BL","sstart dend diff context no sub","sub27",0.052984
+"969","HIPP_MERGE_BL","dstart dend same context no sub","sub27",0.060896
+"970","HIPP_MERGE_BL","dstart dend diff context no sub","sub27",0.055089
+"971","HIPP_MERGE_BL","same mov scon no sub","sub27",0.062174
+"972","HIPP_MERGE_BL","same mov dcon no sub","sub27",0.050146
+"973","HIPP_MERGE_BL","share mov scon no sub","sub27",0.056033
+"974","HIPP_MERGE_BL","share mov dcon no sub","sub27",0.08111
+"975","HIPP_MERGE_BL","no share mov scon no sub","sub27",0.061089
+"976","HIPP_MERGE_BL","no share mov dcon no sub","sub27",0.054281
+"977","V12_BL","sseq scon no sub","sub27",0.496
+"978","V12_BL","sseq dcon no sub","sub27",0.49994
+"979","V12_BL","dseq scon no sub","sub27",0.47562
+"980","V12_BL","dseq dcon no sub","sub27",0.45534
+"981","V12_BL","dstart send same context no sub","sub27",0.4975
+"982","V12_BL","dstart send diff context no sub","sub27",0.45626
+"983","V12_BL","sstart dend same context no sub","sub27",0.47514
+"984","V12_BL","sstart dend diff context no sub","sub27",0.46167
+"985","V12_BL","dstart dend same context no sub","sub27",0.46959
+"986","V12_BL","dstart dend diff context no sub","sub27",0.45328
+"987","V12_BL","same mov scon no sub","sub27",0.496
+"988","V12_BL","same mov dcon no sub","sub27",0.43346
+"989","V12_BL","share mov scon no sub","sub27",0.45368
+"990","V12_BL","share mov dcon no sub","sub27",0.47536
+"991","V12_BL","no share mov scon no sub","sub27",0.47711
+"992","V12_BL","no share mov dcon no sub","sub27",0.46058
+"993","BA4ap","sseq scon no sub","sub27",0.24553
+"994","BA4ap","sseq dcon no sub","sub27",0.14825
+"995","BA4ap","dseq scon no sub","sub27",0.21397
+"996","BA4ap","dseq dcon no sub","sub27",0.19058
+"997","BA4ap","dstart send same context no sub","sub27",0.23881
+"998","BA4ap","dstart send diff context no sub","sub27",0.18769
+"999","BA4ap","sstart dend same context no sub","sub27",0.2032
+"1000","BA4ap","sstart dend diff context no sub","sub27",0.19069
+"1001","BA4ap","dstart dend same context no sub","sub27",0.21003
+"1002","BA4ap","dstart dend diff context no sub","sub27",0.19141
+"1003","BA4ap","same mov scon no sub","sub27",0.24553
+"1004","BA4ap","same mov dcon no sub","sub27",0.22285
+"1005","BA4ap","share mov scon no sub","sub27",0.23985
+"1006","BA4ap","share mov dcon no sub","sub27",0.21284
+"1007","BA4ap","no share mov scon no sub","sub27",0.21225
+"1008","BA4ap","no share mov dcon no sub","sub27",0.18174
+"1009","HIPP_MERGE_BL","sseq scon no sub","sub28",0.096081
+"1010","HIPP_MERGE_BL","sseq dcon no sub","sub28",0.094043
+"1011","HIPP_MERGE_BL","dseq scon no sub","sub28",0.1011
+"1012","HIPP_MERGE_BL","dseq dcon no sub","sub28",0.091035
+"1013","HIPP_MERGE_BL","dstart send same context no sub","sub28",0.10227
+"1014","HIPP_MERGE_BL","dstart send diff context no sub","sub28",0.079693
+"1015","HIPP_MERGE_BL","sstart dend same context no sub","sub28",0.098251
+"1016","HIPP_MERGE_BL","sstart dend diff context no sub","sub28",0.092968
+"1017","HIPP_MERGE_BL","dstart dend same context no sub","sub28",0.10161
+"1018","HIPP_MERGE_BL","dstart dend diff context no sub","sub28",0.093645
+"1019","HIPP_MERGE_BL","same mov scon no sub","sub28",0.096081
+"1020","HIPP_MERGE_BL","same mov dcon no sub","sub28",0.092401
+"1021","HIPP_MERGE_BL","share mov scon no sub","sub28",0.10101
+"1022","HIPP_MERGE_BL","share mov dcon no sub","sub28",0.079187
+"1023","HIPP_MERGE_BL","no share mov scon no sub","sub28",0.10111
+"1024","HIPP_MERGE_BL","no share mov dcon no sub","sub28",0.091986
+"1025","V12_BL","sseq scon no sub","sub28",0.50506
+"1026","V12_BL","sseq dcon no sub","sub28",0.5516
+"1027","V12_BL","dseq scon no sub","sub28",0.4719
+"1028","V12_BL","dseq dcon no sub","sub28",0.48039
+"1029","V12_BL","dstart send same context no sub","sub28",0.4772
+"1030","V12_BL","dstart send diff context no sub","sub28",0.46897
+"1031","V12_BL","sstart dend same context no sub","sub28",0.49024
+"1032","V12_BL","sstart dend diff context no sub","sub28",0.51809
+"1033","V12_BL","dstart dend same context no sub","sub28",0.46501
+"1034","V12_BL","dstart dend diff context no sub","sub28",0.47337
+"1035","V12_BL","same mov scon no sub","sub28",0.50506
+"1036","V12_BL","same mov dcon no sub","sub28",0.49581
+"1037","V12_BL","share mov scon no sub","sub28",0.39841
+"1038","V12_BL","share mov dcon no sub","sub28",0.43528
+"1039","V12_BL","no share mov scon no sub","sub28",0.47673
+"1040","V12_BL","no share mov dcon no sub","sub28",0.48884
+"1041","BA4ap","sseq scon no sub","sub28",0.057498
+"1042","BA4ap","sseq dcon no sub","sub28",0.0071002
+"1043","BA4ap","dseq scon no sub","sub28",0.04743
+"1044","BA4ap","dseq dcon no sub","sub28",0.078367
+"1045","BA4ap","dstart send same context no sub","sub28",0.039398
+"1046","BA4ap","dstart send diff context no sub","sub28",0.079667
+"1047","BA4ap","sstart dend same context no sub","sub28",0.075432
+"1048","BA4ap","sstart dend diff context no sub","sub28",0.039831
+"1049","BA4ap","dstart dend same context no sub","sub28",0.041453
+"1050","BA4ap","dstart dend diff context no sub","sub28",0.088673
+"1051","BA4ap","same mov scon no sub","sub28",0.057498
+"1052","BA4ap","same mov dcon no sub","sub28",0.11
+"1053","BA4ap","share mov scon no sub","sub28",0.029207
+"1054","BA4ap","share mov dcon no sub","sub28",0.027278
+"1055","BA4ap","no share mov scon no sub","sub28",0.04859
+"1056","BA4ap","no share mov dcon no sub","sub28",0.071682
+"1057","HIPP_MERGE_BL","sseq scon no sub","sub30",0.018671
+"1058","HIPP_MERGE_BL","sseq dcon no sub","sub30",0.049964
+"1059","HIPP_MERGE_BL","dseq scon no sub","sub30",0.01997
+"1060","HIPP_MERGE_BL","dseq dcon no sub","sub30",0.0058875
+"1061","HIPP_MERGE_BL","dstart send same context no sub","sub30",0.0067
+"1062","HIPP_MERGE_BL","dstart send diff context no sub","sub30",0.0073418
+"1063","HIPP_MERGE_BL","sstart dend same context no sub","sub30",0.01885
+"1064","HIPP_MERGE_BL","sstart dend diff context no sub","sub30",-0.010295
+"1065","HIPP_MERGE_BL","dstart dend same context no sub","sub30",0.024094
+"1066","HIPP_MERGE_BL","dstart dend diff context no sub","sub30",0.010092
+"1067","HIPP_MERGE_BL","same mov scon no sub","sub30",0.018671
+"1068","HIPP_MERGE_BL","same mov dcon no sub","sub30",-0.016516
+"1069","HIPP_MERGE_BL","share mov scon no sub","sub30",-0.025317
+"1070","HIPP_MERGE_BL","share mov dcon no sub","sub30",0.057082
+"1071","HIPP_MERGE_BL","no share mov scon no sub","sub30",0.022968
+"1072","HIPP_MERGE_BL","no share mov dcon no sub","sub30",0.0089237
+"1073","V12_BL","sseq scon no sub","sub30",0.42516
+"1074","V12_BL","sseq dcon no sub","sub30",0.47245
+"1075","V12_BL","dseq scon no sub","sub30",0.43242
+"1076","V12_BL","dseq dcon no sub","sub30",0.43902
+"1077","V12_BL","dstart send same context no sub","sub30",0.42896
+"1078","V12_BL","dstart send diff context no sub","sub30",0.44025
+"1079","V12_BL","sstart dend same context no sub","sub30",0.44681
+"1080","V12_BL","sstart dend diff context no sub","sub30",0.42267
+"1081","V12_BL","dstart dend same context no sub","sub30",0.42928
+"1082","V12_BL","dstart dend diff context no sub","sub30",0.44337
+"1083","V12_BL","same mov scon no sub","sub30",0.42516
+"1084","V12_BL","same mov dcon no sub","sub30",0.44609
+"1085","V12_BL","share mov scon no sub","sub30",0.39257
+"1086","V12_BL","share mov dcon no sub","sub30",0.43384
+"1087","V12_BL","no share mov scon no sub","sub30",0.4351
+"1088","V12_BL","no share mov dcon no sub","sub30",0.44186
+"1089","BA4ap","sseq scon no sub","sub30",0.025804
+"1090","BA4ap","sseq dcon no sub","sub30",0.078612
+"1091","BA4ap","dseq scon no sub","sub30",0.057586
+"1092","BA4ap","dseq dcon no sub","sub30",0.063847
+"1093","BA4ap","dstart send same context no sub","sub30",0.066092
+"1094","BA4ap","dstart send diff context no sub","sub30",0.084869
+"1095","BA4ap","sstart dend same context no sub","sub30",0.088905
+"1096","BA4ap","sstart dend diff context no sub","sub30",0.048418
+"1097","BA4ap","dstart dend same context no sub","sub30",0.046127
+"1098","BA4ap","dstart dend diff context no sub","sub30",0.062264
+"1099","BA4ap","same mov scon no sub","sub30",0.025804
+"1100","BA4ap","same mov dcon no sub","sub30",0.066062
+"1101","BA4ap","share mov scon no sub","sub30",-0.025997
+"1102","BA4ap","share mov dcon no sub","sub30",0.068364
+"1103","BA4ap","no share mov scon no sub","sub30",0.063134
+"1104","BA4ap","no share mov dcon no sub","sub30",0.064755
