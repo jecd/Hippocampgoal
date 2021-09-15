@@ -59,7 +59,7 @@ long_data_con_div_AOV$same_context <- as.factor(long_data_con_div_AOV$same_conte
 long_data_con_div_AOV = droplevels(long_data_con_div_AOV) # drop un used levels
 
 ## HPC 
-con_div_intercept.HIPP_MERGE_BL = mixed(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "HIPP_MERGE_BL"))
+con_div_intercept.HIPP_MERGE_BL = mixed(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "HIPP_MERGE_BL"), method = "LRT")
 con_div_intercept.HIPP_MERGE_BL.lmer = lmer(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "HIPP_MERGE_BL"))
 print(con_div_intercept.HIPP_MERGE_BL)
 
@@ -74,7 +74,7 @@ print(p)
 ggsave('/Volumes/Data/zoocon/Hippocampgoal/Figures/Fig2D_HPC_BL_EMM_btwn_context.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
 
 ## VISUAL ROIs
-con_div_intercept.V12_BL = mixed(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "V12_BL"))
+con_div_intercept.V12_BL = mixed(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "V12_BL"), method = "LRT")
 con_div_intercept.V12_BL.lmer = lmer(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "V12_BL"))
 print(con_div_intercept.V12_BL)
 p=mixed_model_plot(con_div_intercept.V12_BL.lmer,'overlap*con')
