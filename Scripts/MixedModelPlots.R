@@ -8,8 +8,6 @@ library(emmeans)
 
 source("/Volumes/Data/zoocon/Hippocampgoal/Scripts/LMM_plot.R")
 
-# data = read.csv("/Volumes/Data/zoocon/RSA_single_trial_model_comparison/zoocon_final_ROIs_handTrace_trialscreen_LSA_brown_model_betas_after_fish_no_imp/Statistics/triascreen_RSA_Significance_withbet_RFX.csv")
-
 data = read.csv("/Volumes/Data/zoocon/Hippocampgoal/Data/long_cue_period_RSA_results.csv")
 
 ## Same Sequence Same Context 
@@ -120,4 +118,3 @@ move_intercept.BA4ap.lmer = lmer(PS ~ same_context*move + (1|subject), data =  f
 print(move_intercept.BA4ap)
 p=mixed_model_plot(move_intercept.BA4ap.lmer,'motor')
 ggsave('/Volumes/Data/zoocon/Hippocampgoal/Figures/FigS2D_BA4ap_BL_EMM_moves.eps', device = "eps", width = 9, height = 7, units = 'in', dpi = 600)
-
