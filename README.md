@@ -1,4 +1,6 @@
 # Hippocampgoal
+[![DOI](https://zenodo.org/badge/406137918.svg)](https://zenodo.org/badge/latestdoi/406137918)
+
 This repo contains the code and data to reproduce main and supplemental figures in [Crivelli-Decker et al., 2021](https://www.biorxiv.org/content/10.1101/2021.08.18.456881v2)
 This is a living repository and will change in response to peer review 
 There are still things that need to be adjusted, if you run into an please issue submit an issue on github
