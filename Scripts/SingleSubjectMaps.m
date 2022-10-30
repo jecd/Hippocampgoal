@@ -1,7 +1,7 @@
 %% single subject maps
 %%%%%%%%%%%%%%%%%%%%%%%% Setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % paths
-base_dir = '/Volumes/Data/zoocon/Rev_Hippocampgoal/';
+base_dir = '/Volumes/Data/zoocon/Hippocampgoal/';
 out_dir = [base_dir, 'Stats/'];
 data_path = [base_dir, 'Data/'];
 scripts_path = [base_dir, 'Scripts/'];
@@ -12,7 +12,7 @@ plots_path = [base_dir, 'Figures/'];
 addpath(scripts_path);
 addpath(color_path);
 % load data 
-% load('/Volumes/Data/zoocon/Rev_Hippocampgoal/Stats/HIPP_MERGE_BL/HIPP_MERGE_BL_stats.mat')
+% load('/Volumes/Data/zoocon/Hippocampgoal/Stats/HIPP_MERGE_BL/HIPP_MERGE_BL_stats.mat')
 load([out_dir, 'HIPP_MERGE_BL/HIPP_MERGE_BL_stats.mat'])
 
 %%%%%%%%%%%%%%%%%%%%%%%% Vis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,7 +1,7 @@
 %% Colinearity Example Figures For Reviewer
 
 % paths
-base_dir = '/Volumes/Data/zoocon/Rev_Hippocampgoal/';
+base_dir = '/Volumes/Data/zoocon/Hippocampgoal/';
 out_dir = [base_dir, 'Stats/'];
 data_path = [base_dir, 'Data/'];
 scripts_path = [base_dir, 'Scripts/'];

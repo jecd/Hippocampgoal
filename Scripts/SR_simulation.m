@@ -2,7 +2,7 @@ close all; clear;
 
 addpath("Colormaps/")
 %% Plot dir
-plot_dir = '/Volumes/Data/zoocon/Rev_Hippocampgoal/Figures/';
+plot_dir = '/Volumes/Data/zoocon/Hippocampgoal/Figures/';
 %% Set parameter
 % gamma=.01;              % decay rate of successor representatin (SR) 
 gamma=.3;              % decay rate of successor representatin (SR) 

@@ -6,9 +6,9 @@ library(tidyr)
 library(afex)
 library(emmeans)
 
-source("/Volumes/Data/zoocon/Rev_Hippocampgoal/Scripts/LMM_plot.R")
+source("/Volumes/Data/zoocon/Hippocampgoal/Scripts/LMM_plot.R")
 
-data = read.csv("/Volumes/Data/zoocon/Rev_Hippocampgoal/Data/long_cue_period_RSA_results.csv")
+data = read.csv("/Volumes/Data/zoocon/Hippocampgoal/Data/long_cue_period_RSA_results.csv")
 
 ## Same Sequence Same Context 
 ## Figure 2B
@@ -30,7 +30,7 @@ HIPP_MERGE_BL.intercept.F = mixed(PS ~ same_sequence*same_context + (1|subject),
 HIPP_MERGE_BL.inercept.lmer = lmer(PS ~ same_sequence*same_context + (1|subject), data = filter(long_data_AOV, ROI == "HIPP_MERGE_BL"))
 print(HIPP_MERGE_BL.intercept)
 p=mixed_model_plot(HIPP_MERGE_BL.inercept.lmer,'seq*con')
-ggsave('/Volumes/Data/zoocon/Rev_Hippocampgoal/Figures/Fig2B_HPC_BL_EMM_seq_con_bars.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
+ggsave('/Volumes/Data/zoocon/Hippocampgoal/Figures/Fig2B_HPC_BL_EMM_seq_con_bars.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
 
 ## For reviewers
 tmp_emm = emmeans(HIPP_MERGE_BL.inercept.lmer, ~same_sequence*same_context)
@@ -87,12 +87,12 @@ tmp_df = as.data.frame(context_effect$emmeans)
 # within context 
 p = main_effect_plot(con_div_intercept.HIPP_MERGE_BL.lmer, "overlap") 
 print(p)
-ggsave('/Volumes/Data/zoocon/Rev_Hippocampgoal/Figures/Fig2C_HPC_BL_EMM_win_context.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
+ggsave('/Volumes/Data/zoocon/Hippocampgoal/Figures/Fig2C_HPC_BL_EMM_win_context.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
 
 # between context
 p = main_effect_plot(con_div_intercept.HIPP_MERGE_BL.lmer, "overlap*context" )
 print(p)
-ggsave('/Volumes/Data/zoocon/Rev_Hippocampgoal/Figures/Fig2D_HPC_BL_EMM_btwn_context.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
+ggsave('/Volumes/Data/zoocon/Hippocampgoal/Figures/Fig2D_HPC_BL_EMM_btwn_context.eps',device = "eps", width = 8, height = 6, units = 'in', dpi = 600)
 
 ## pairwise comparisons
 temp=emmeans(con_div_intercept.HIPP_MERGE_BL.lmer,pairwise  ~ same_context*overlap,lmer.df = "asymptotic", adjust = "none") # stats 
@@ -137,7 +137,7 @@ con_div_intercept.V12_BL = mixed(PS ~ same_context*overlap + (1|subject), data =
 con_div_intercept.V12_BL.lmer = lmer(PS ~ same_context*overlap + (1|subject), data =  filter(long_data_con_div_AOV, ROI == "V12_BL"))
 print(con_div_intercept.V12_BL)
 p=mixed_model_plot(con_div_intercept.V12_BL.lmer,'overlap*con')
-ggsave('/Volumes/Data/zoocon/Rev_Hippocampgoal/Figures/FigS2F_V12_BL_EMM_con_div.eps', device = "eps", width = 10, height = 8, units = 'in', dpi = 600)
+ggsave('/Volumes/Data/zoocon/Hippocampgoal/Figures/FigS2F_V12_BL_EMM_con_div.eps', device = "eps", width = 10, height = 8, units = 'in', dpi = 600)
 
 ## For reviewers
 tmp_emm = emmeans(con_div_intercept.V12_BL.lmer, ~overlap*same_context)
