@@ -2,7 +2,7 @@ close all; clear;
 
 addpath("Colormaps/")
 %% Plot dir
-plot_dir = '/Volumes/Data/zoocon/Hippocampgoal/Figures/';
+plot_dir = '/Volumes/Data/zoocon/Rev_Hippocampgoal/Figures/';
 %% Set parameter
 % gamma=.01;              % decay rate of successor representatin (SR) 
 gamma=.3;              % decay rate of successor representatin (SR) 
@@ -45,7 +45,7 @@ PS_no_overlap_H1 = corr(Cd_div_bi(:,1), Cd_con_bi(:,1));
 
 PS_Fig=figure; 
 bar([PS_same_H1,PS_con_H1, PS_div_H1, PS_no_overlap_H1])
-xticklabels({'Same Sequence', 'Converging','Diverging', 'No Overlap'})
+xticklabels({'Same Sequence', 'Converging','Diverging', 'Diff. Start Diff. Goal'})
 ylabel('Similarity');
 ax = gca;
 set(ax,'TickDir','out','box','off')

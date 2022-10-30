@@ -60,26 +60,26 @@ mixed_model_plot = function(model_2_plot, analysis_type){
     # organizing factors
     tmp_df$same_context=mapvalues(tmp_df$same_context, from = c(TRUE,FALSE), to = c("Same Context", "Diff Context"))
     tmp_df$same_context=factor(tmp_df$same_context, levels = c("Same Context", "Diff Context"))
-    tmp_df$overlap = mapvalues(tmp_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "No Overlap"))
-    tmp_df$overlap = factor(tmp_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "No Overlap"))
+    tmp_df$overlap = mapvalues(tmp_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same\nSequence", "Diverging", "Diff. Start\nDiff. Goal"))
+    tmp_df$overlap = factor(tmp_df$overlap, levels = c("Same\nSequence", "Converging", "Diverging", "Diff. Start\nDiff. Goal"))
     
     # for the indiv people
     indiv_df=model_2_plot@frame
     indiv_df$same_context = mapvalues(indiv_df$same_context, from = c(TRUE,FALSE), to = c("Same Context", "Diff Context"))
     indiv_df$same_context=factor(indiv_df$same_context, levels = c("Same Context", "Diff Context"))
-    indiv_df$overlap = mapvalues(indiv_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "No Overlap"))
-    indiv_df$overlap = factor(indiv_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "No Overlap"))
+    indiv_df$overlap = mapvalues(indiv_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same\nSequence", "Diverging", "Diff. Start\nDiff. Goal"))
+    indiv_df$overlap = factor(indiv_df$overlap, levels = c("Same\nSequence", "Converging", "Diverging", "Diff. Start\nDiff. Goal"))
     
     # plot
     p = tmp_df %>% 
       ggplot(aes(x = same_context, y = emmean, fill = overlap)) + 
       geom_errorbar(aes(ymin = emmean - SE, ymax = emmean + SE), width = 0, size = 2) +
       geom_point(aes(color = overlap), size = 5) +
-      scale_x_discrete(labels = c("Same Context" = "Same \n Context", "Diff Context" = "Diff \n Context")) +
-      facet_grid(~overlap) + 
+      scale_x_discrete(labels = c("Same Context" = "Same\nContext", "Diff Context" = "Diff.\nContext")) +
+      facet_grid(~overlap) + #labeller = label_wrap_gen(width = 10)
       geom_jitter(aes(y = PS, color = NULL), color = "black", width = 0.1, cex = 2 , data = indiv_df) + 
       labs(title = tmp_plot_name, 
-           y = "Pattern Similarity \n (Estimated Marginal Mean)", 
+           y = "Pattern Similarity\n(Estimated Marginal Mean)", 
            x = "Context Pair") + 
       theme_bw() + 
       theme(panel.grid.minor = element_blank()) + 
@@ -89,8 +89,8 @@ mixed_model_plot = function(model_2_plot, analysis_type){
             title=element_text(size=17.5,face="bold")) + 
       theme(legend.position = "none")  + 
       theme(strip.text.x = element_text(size = 17.5, face = "bold")) +
-      scale_fill_manual("legend", values = c("Converging" = "#56B4E9", "Same Sequence" = "#0072B2", "Diverging" = "#009E73", "No Overlap" = "#D55E00")) + 
-      scale_color_manual("legend", values = c("Converging" = "#56B4E9", "Same Sequence" = "#0072B2", "Diverging" = "#009E73", "No Overlap" = "#D55E00"))
+      scale_fill_manual("legend", values = c("Converging" = "#56B4E9", "Same\nSequence" = "#0072B2", "Diverging" = "#009E73", "Diff. Start\nDiff. Goal" = "#D55E00")) + 
+      scale_color_manual("legend", values = c("Converging" = "#56B4E9", "Same\nSequence" = "#0072B2", "Diverging" = "#009E73", "Diff. Start\nDiff. Goal" = "#D55E00"))
     
   } else if (analysis_type == "motor") {
     
@@ -154,15 +154,15 @@ main_effect_plot <- function(model_2_plot, analysis_type) {
     # organizing factors
     tmp_df$same_context=mapvalues(tmp_df$same_context, from = c(TRUE,FALSE), to = c("Same Context", "Diff Context"))
     tmp_df$same_context=factor(tmp_df$same_context, levels = c("Same Context", "Diff Context"))
-    tmp_df$overlap = mapvalues(tmp_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "No Overlap"))
-    tmp_df$overlap = factor(tmp_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "No Overlap"))
+    tmp_df$overlap = mapvalues(tmp_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "Diff. Start Diff. Goal"))
+    tmp_df$overlap = factor(tmp_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "Diff. Start Diff. Goal"))
     
     # for the indiv people
     indiv_df=model_2_plot@frame
     indiv_df$same_context = mapvalues(indiv_df$same_context, from = c(TRUE,FALSE), to = c("Same Context", "Diff Context"))
     indiv_df$same_context=factor(indiv_df$same_context, levels = c("Same Context", "Diff Context"))
-    indiv_df$overlap = mapvalues(indiv_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "No Overlap"))
-    indiv_df$overlap = factor(indiv_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "No Overlap"))
+    indiv_df$overlap = mapvalues(indiv_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "Diff. Start Diff. Goal"))
+    indiv_df$overlap = factor(indiv_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "Diff. Start Diff. Goal"))
     
     overlap_effect = tmp_df[tmp_df$same_context == "Same Context", ]
     overlap_effect_indiv = indiv_df[indiv_df$same_context == "Same Context", ]
@@ -170,11 +170,11 @@ main_effect_plot <- function(model_2_plot, analysis_type) {
     p = overlap_effect %>% 
       ggplot(aes(x = overlap, y = emmean, fill = overlap)) + 
       geom_bar(stat = "identity", aes(color = overlap, fill = overlap), width = 0.9) +
-      scale_color_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "No Overlap" = "#D55E00")) + 
-      scale_fill_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "No Overlap" = "#D55E00")) + 
+      scale_color_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "Diff. Start Diff. Goal" = "#D55E00")) + 
+      scale_fill_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "Diff. Start Diff. Goal" = "#D55E00")) + 
       geom_errorbar(aes(ymin = emmean - SE, ymax = emmean + SE), width = 0, size = 2, position = position_dodge(width = 1)) +
       geom_jitter(aes(y = PS, color = NULL), color = "black", width = 0.1, cex = 2 , data = overlap_effect_indiv) +
-      scale_x_discrete(labels = c("Same Sequence" = "Same \n Sequence")) +
+      scale_x_discrete(labels = c("Same Sequence" = "Same\nSequence", "Diff. Start Diff. Goal" = "Diff. Start\nDiff. Goal")) +
       labs(title = tmp_plot_name, 
            y = "Pattern Similarity \n (Estimated Marginal Mean)", 
            x = "Overlap") + 
@@ -199,15 +199,15 @@ main_effect_plot <- function(model_2_plot, analysis_type) {
     # organizing factors
     tmp_df$same_context=mapvalues(tmp_df$same_context, from = c(TRUE,FALSE), to = c("Same Context", "Diff Context"))
     tmp_df$same_context=factor(tmp_df$same_context, levels = c("Same Context", "Diff Context"))
-    tmp_df$overlap = mapvalues(tmp_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "No Overlap"))
-    tmp_df$overlap = factor(tmp_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "No Overlap"))
+    tmp_df$overlap = mapvalues(tmp_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "Diff. Start Diff. Goal"))
+    tmp_df$overlap = factor(tmp_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "Diff. Start Diff. Goal"))
     
     # for the indiv people
     indiv_df=model_2_plot@frame
     indiv_df$same_context = mapvalues(indiv_df$same_context, from = c(TRUE,FALSE), to = c("Same Context", "Diff Context"))
     indiv_df$same_context=factor(indiv_df$same_context, levels = c("Same Context", "Diff Context"))
-    indiv_df$overlap = mapvalues(indiv_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "No Overlap"))
-    indiv_df$overlap = factor(indiv_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "No Overlap"))
+    indiv_df$overlap = mapvalues(indiv_df$overlap, from = c("converge", "full_overlap", "diverge", "no_overlap"), to = c("Converging", "Same Sequence", "Diverging", "Diff. Start Diff. Goal"))
+    indiv_df$overlap = factor(indiv_df$overlap, levels = c("Same Sequence", "Converging", "Diverging", "Diff. Start Diff. Goal"))
     
     
     # subset same and different contexts. subset to original DF into same context. Take out the subset data and rename
@@ -233,11 +233,11 @@ main_effect_plot <- function(model_2_plot, analysis_type) {
             title=element_text(size=17.5,face="bold")) + 
       theme(legend.position = "none")  + 
       theme(strip.text.x = element_text(size = 17.5, face = "bold")) +
-      scale_color_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "No Overlap" = "#D55E00")) + 
-      scale_fill_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "No Overlap" = "#D55E00")) + 
-      scale_x_discrete(labels = c("Same Sequence" = "Same \n Sequence")) +
+      scale_color_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "Diff. Start Diff. Goal" = "#D55E00")) + 
+      scale_fill_manual(values = c("Converging" = "#56B4E9", "Same Sequence" = "dodgerblue4", "Diverging" = "#009E73", "Diff. Start Diff. Goal" = "#D55E00")) + 
+      scale_x_discrete(labels = c("Same Sequence" = "Same\nSequence", "Diff. Start Diff. Goal" = "Diff. Start\nDiff. Goal")) +
       labs(title = tmp_plot_name, 
-           y = "Pattern Similarity \n (Estimated Marginal Mean)", 
+           y = "Pattern Similarity\n(Estimated Marginal Mean)", 
            x = "Overlap") + 
       theme_bw() + 
       theme(panel.grid.major = element_blank()) + 
