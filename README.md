@@ -1,7 +1,7 @@
 # Hippocampgoal
 This repo contains the code and data to reproduce main and supplemental figures in [Crivelli-Decker et al., 2021](https://www.biorxiv.org/content/10.1101/2021.08.18.456881v2)
 This is a living repository and will change in response to peer review 
-There are still things that need to be adjusted if you run into an issue submit an issue on github
+There are still things that need to be adjusted, if you run into an please issue submit an issue on github
 
 # Dependencies
 - Matlab 2020a
@@ -10,7 +10,7 @@ There are still things that need to be adjusted if you run into an issue submit 
 - See r_env.txt for full list of version numbers and information about how to recreate environment
 
 # OS 
-- MacOS Cataline 10.15.7
+- MacOS Catalina 10.15.7
 
 # Contents 
 - Colormaps: Code to repro colormaps in publication figures
